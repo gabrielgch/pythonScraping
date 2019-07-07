@@ -36,7 +36,6 @@ class Player(db.Model):
     weight = db.Column(db.Float, nullable=False, )
     detail_link = db.Column(db.String(150), nullable=False, )
     img_link = db.Column(db.String(150), nullable=True, )
-    """missing year_in, year_out, image""" #!IMPORTANT
 
     def __init__(self, first_name,last_name,college,birthday,height,weight,detail_link, img_link):
         self.first_name = first_name
@@ -59,20 +58,37 @@ def getData(data):
     values.append(data.get('birthday'))
     height = data.get('height')
     height = height.replace("-",".")
-    values.append(float(height))
-    values.append(float(data.get('weight')))
+    values.append(height)
+    values.append(data.get('weight'))
     values.append(data.get('detail_link'))
     values.append(data.get('img_link'))
     player = dict(zip(keys,values))
 
     return player
 
+def check_notempty(data):
+    valid = True
+    if (data['first'] == "" or None) or (data['last']=="" or None) or (data['college']=="" or None)\
+        or (data['birthday']=="" or None) or (data['height']=="" or None) or (data['weight']=="" or None)\
+        or (data['detail_link']=="" or None) or (data['img_link']=="" or None):
+            valid = False
+    
+    return valid
+
+
 def insertPlayer(player):
-    toInsert = Player(player['first'],player['last'],player['college'],player['birthday'],player['height'],\
-        player['weight'],player['detail_link'], player['img_link'])
-    db.session.add(toInsert)
-    db.session.commit()
-    print("INSERTED")
+    err_msg=""
+    try:
+        player['height'] = float(player['height'])
+        player['weight'] = float(player['weight'])
+        db.session.commit()
+        toInsert = Player(player['first'],player['last'],player['college'],player['birthday'],\
+            player['height'],player['weight'],player['detail_link'], player['img_link'])
+        db.session.add(toInsert)
+        db.session.commit()
+    except ValueError:
+        err_msg = "Error: Height and Weight values must be decimal values...update aborted"
+    return err_msg
 
 @app.route('/delete_entry<player_id>')
 def delete_entry(player_id):
@@ -91,28 +107,37 @@ def profile():
 
 @app.route('/update', methods=["GET", "POST"])
 def update_entry():
-    print(request.form.get('first'))
+    err_msg = ""
     if request.form:
         data = request.form
         player_data = getData(data)
-        player_id = data['player_id']
-        player = Player.query.filter_by(player_id = player_id).first()
-        player.first_name = player_data['first']
-        player.last_name = player_data['last']
-        player.college = player_data['college']
-        player.birthday = player_data['birthday']
-        player.height = player_data['height']
-        player.weight = player_data['weight']
-        player.detail_link = player_data['detail_link']
-        player.img_link = player_data['img_link']
-        db.session.commit()
-    return render_template('database.html', action='start')
+        if check_notempty(player_data):
+            player_id = data['player_id']
+            player = Player.query.filter_by(player_id = player_id).first()
+            player.first_name = player_data['first']
+            player.last_name = player_data['last']
+            player.college = player_data['college']
+            player.birthday = player_data['birthday']
+            player.height = player_data['height']
+            player.weight = player_data['weight']
+            player.detail_link = player_data['detail_link']
+            player.img_link = player_data['img_link']
+            try:
+                player_data['height'] = float(player_data['height'])
+                player_data['weight'] = float(player_data['weight'])
+                db.session.commit()
+            except ValueError:
+                err_msg = "Error: Height and Weight values must be decimal values...update aborted"
+        else:
+            err_msg = "Error: Empty value found...update aborted"
+    return render_template('database.html', action='start', err_msg = err_msg)
 
 @app.route('/entry_find<player_id>')
 def get_data_update(player_id):
     player_found = Player.query.filter_by(player_id=player_id).first()
     if player_found is None:
-        return render_template('error.html')
+        err_msg="Error: Player could not be found in database"
+        render_template('database.html', action='start', all_players_list=[], result_size=0, err_msg=err_msg)
     return render_template('update.html',player=player_found)
 
 @app.route('/search_all')
@@ -120,15 +145,40 @@ def search_all():
     players = Player.query.all()
     res_size = len(players)
     return render_template('database.html', action='all', all_players_list=players, result_size=res_size)
+
+@app.route('/search<action>', methods=["GET","POST"])
+def search(action):
+    err_msg = ""
+    if request.form:
+        name = request.form['name']
+        if name == "" or None:
+            err_msg = "Please fill desired search field"
+            players=[]
+        elif action == "name":
+            players = Player.query.filter(Player.first_name.like("%"+name+"%") |\
+                Player.last_name.like("%"+name+"%")).all()
+        elif action == "college":
+            players = Player.query.filter(Player.college.like("%"+name+"%")).all()
+        elif action == "height":
+            try:
+                float(name)
+                players = Player.query.filter(Player.height == name).all()
+            except ValueError:
+                err_msg = "height must be a decimal value"
+                players=[]
+        res_size = len(players)
+        return render_template('database.html', action=action, all_players_list=players,\
+            err_msg=err_msg, result_size=res_size)
     
 
 @app.route('/database/<action>', methods=["GET", "POST"])
 def database(action):
-    print("CALLING  ")
+    err_msg = ""
     if request.form:
         if action == "add":
             data = request.form
             player_data =getData(data)
-            insertPlayer(player_data)
-            return render_template('database.html', action='start')
-    return render_template('database.html', action=action)
+            if check_notempty(player_data):
+                err_msg = insertPlayer(player_data)
+                return render_template('database.html', action = 'start', err_msg = err_msg)
+    return render_template('database.html', action = action, err_msg = err_msg)

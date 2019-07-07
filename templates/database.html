@@ -8,11 +8,26 @@
     </div>
     <div class="row justify-content-center">
         <a href="{{url_for('search_all')}}"><button type="button" class="btn btn-primary">Search All</button></a>
-        <form method="POST" action="{{url_for('scrape', action='individual')}}">
-            <input type="text" name="" placeholder="Lebron">
-            <input type="submit" value="Search name">
+
+        <form method="POST" action="{{url_for('search', action='name')}}">
+            <input type="text" name="name" placeholder="Lebron">
+            <input type="submit" value="Search first/last name">
+        </form>
+
+        <form method="POST" action="{{url_for('search', action='college')}}">
+            <input type="text" name="name" placeholder="Duke">
+            <input type="submit" value="Search College">
+        </form>
+        <form method="POST" action="{{url_for('search', action='height')}}">
+            <input type="text" name="name" placeholder="5.11">
+            <input type="submit" value="Search height">
         </form>
     </div>
+        {% if err_msg != "" %}
+        <div class="row justify-content-center">
+            <div >{{err_msg}}</div>
+        </div>
+        {% endif %}
     <div class="row justify-content-center">
         <div class="col col-lg-11">
             <table class="table table-hover  table-responsive-lg">
@@ -32,7 +47,7 @@
                     </tr>
                 </thead>
                     <tbody>
-                        {%if action == "all" %}
+                        {%if action != "start" %}
                         {% for index in range(0, result_size) %}
                             <tr>
                                 <th scope="row">{{all_players_list[index].player_id}}</th>

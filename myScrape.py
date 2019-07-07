@@ -20,7 +20,7 @@ def get_player_image(player_detail_link):
         img = meta.div.img['src'] #player had an image
         print(">>"+img)
     else:
-        img = "" #player did not have an image """
+        img = "not_found" #player did not have an image """
     
     return img
 
@@ -40,26 +40,29 @@ def scrape_players_data():
         #get all player rows in tbody
         player_rows = table_body.findAll("tr", limit=10)
         for row in player_rows:
-            #get name from th tag that contains an a tag with the text name of player
-            name = row.th.a.text
-            #split name to have first and last(s) names
-            name = name.split(" ", 1)
-            player_info={"first_name": name[0],"last_name":name[1]}
+            
             #get players basic info from td tags of the row
             player_data = row.findAll("td")
-            player_info["year_in"] = player_data[1].text
-            player_info["year_out"] = player_data[2].text
-            player_info["height"] = player_data[3].text
-            player_info["weight"] = player_data[4].text
-            player_info["birthday"] = player_data[5].text
-            player_info["college"] = player_data[6].text
-            if player_info['college'] == "":
-                player_info['college'] = "no"
-            player_info["detail_link"] = url_base + row.th.a['href']
-            #find player image
-            player_info['img_link'] = get_player_image(player_info['detail_link'])
-            #add each player dictionary to list
-            players_list.append(player_info)
+            #check year when they entered the league
+            if int(player_data[1].text) >= 1950:
+                #get name from th tag that contains an a tag with the text name of player
+                name = row.th.a.text
+                #split name to have first and last(s) names
+                name = name.split(" ", 1)
+                player_info={"first_name": name[0],"last_name":name[1]}
+                player_info["year_in"] = player_data[1].text
+                player_info["year_out"] = player_data[2].text
+                player_info["height"] = player_data[3].text
+                player_info["weight"] = player_data[4].text
+                player_info["birthday"] = player_data[5].text
+                player_info["college"] = player_data[6].text
+                if player_info['college'] == "":
+                    player_info['college'] = "not_found"
+                player_info["detail_link"] = url_base + row.th.a['href']
+                #find player image
+                player_info['img_link'] = get_player_image(player_info['detail_link'])
+                #add each player dictionary to list
+                players_list.append(player_info)
     return players_list
 
 def searchPlayer(name_search):
