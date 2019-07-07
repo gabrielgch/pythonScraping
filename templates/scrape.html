@@ -19,9 +19,7 @@
         <table class="table table-hover  table-responsive-lg">
             <thead>
                 <tr>
-                <div class="col-lg-10">
-                    <th>#</th>
-                </div>
+                <th>#</th>
                 <th>First Name</th>
                 <th>Last Name</th>
                 <th>Birthday</th>
@@ -29,15 +27,15 @@
                 <th>Height</th>
                 <th>Weight</th>
                 <th>Detail link</th>
-                <th>View Personal</th>
-                <th>DB</th>
+                <th>Database</th>
+                <th>View Profile</th>
                 </tr>
             </thead>
                 <tbody>
                     {%if action == "all" %}
                     {% for index in range(0, result_size) %}
                         <tr>
-                            <form action="{{url_for('database', action='add')}}">
+                            <form action="{{url_for('database', action='add')}}" method="POST">
                                 <th scope="row">{{index}}</th>
                                 <td><input type="text" size="15" class="form-control form-control-sm form-control-plaintext" name="first" value="{{all_players_list[index].first_name}}" readonly></td>
                                 <td><input type="text" size="20"class="form-control form-control-sm form-control-plaintext" name="last" value="{{all_players_list[index].last_name}}" readonly></td>

@@ -48,7 +48,53 @@ class Player(db.Model):
 
 db.create_all()
 
+def getData(data):
+    keys = ["first", "last", "college", "birthday", "height", "weight", "detail_link"]
+    values = []
+    values.append(data.get('first'))
+    values.append(data.get('last'))
+    values.append(data.get('college'))
+    values.append(data.get('birthday'))
+    height = data.get('height')
+    height = height.replace("-",".")
+    values.append(float(height))
+    values.append(float(data.get('weight')))
+    values.append(data.get('detail_link'))
+    player = dict(zip(keys,values))
+
+    return player
+
+def insertPlayer(player):
+    toInsert = Player(player['first'],player['last'],player['college'],player['birthday'],player['height'],\
+        player['weight'],player['detail_link'])
+    db.session.add(toInsert)
+    db.session.commit()
+    print("INSERTED")
+
+@app.route('/delete_entry<player_id>')
+def delete_entry(player_id):
+    print(">>"+player_id)
+    player_found = Player.query.filter_by(player_id=player_id).first()
+    if player_found is not None:
+        db.session.delete(player_found)
+        db.session.commit()
+    return render_template('database.html', action='start')
+
+@app.route('/search_all')
+def search_all():
+    players = Player.query.all()
+    res_size = len(players)
+    print(players[0].player_id)
+    return render_template('database.html', action='all', all_players_list=players, result_size=res_size)
+    
+
 @app.route('/database/<action>', methods=["GET", "POST"])
 def database(action):
-    print(request.form.get('first'))
-    return render_template('database.html', action='start')
+    print("CALLING  ")
+    if request.form:
+        if action == "add":
+            data = request.form
+            player_data =getData(data)
+            insertPlayer(player_data)
+            return render_template('database.html', action='start')
+    return render_template('database.html', action=action)

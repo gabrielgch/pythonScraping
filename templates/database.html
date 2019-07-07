@@ -1,50 +1,54 @@
 {% extends "headermenu.html" %}
 {% block content %}
-    <div class="row">
-        <h2>Scrape Content</h2>
+    <div class="row justify-content-center">
+        <h2>Database Content</h2>
     </div>
-    <div class="row">
+    <div class="row justify-content-center">
         <p>Content stored in database</p>
     </div>
-    <div class="row">
-        <a href="{{url_for('scrape', action="all")}}"><button type="button" class="btn btn-primary">Scrape Players</button></a>
+    <div class="row justify-content-center">
+        <a href="{{url_for('search_all')}}"><button type="button" class="btn btn-primary">Search All</button></a>
         <form method="POST" action="{{url_for('scrape', action='individual')}}">
             <input type="text" name="" placeholder="Lebron">
             <input type="submit" value="Search name">
         </form>
     </div>
-    <div class="row">
-        <table class="table">
-            <thead>
-                <tr>
-                <th>#</th>
-                <th>Name</th>
-                <th>Birthday</th>
-                <th>College</th>
-                <th>Height</th>
-                <th>Weight</th>
-                <th>Detail link</th>
-                <th>Update</th>
-                <th>Delete</th>
-                </tr>
-            </thead>
-                <tbody>
-                    {%if action == "all" %}
-                    {% for index in range(0, result_size) %}
-                        <tr>
-                            <th scope="row"></th>
-                            <td>{{all_players_list[index].first_name}}</td>
-                            <td>{{all_players_list[index].birthday}}</td>
-                            <td>{{all_players_list[index].college}}</td>
-                            <td>{{all_players_list[index].height}}</td>
-                            <td>{{all_players_list[index].weight}}</td>
-                            <td>{{all_players_list[index].detail_link}}</td>
-                            <td><button type="button" class="btn btn-info">Update</button></td>
-                            <td><button type="button" class="btn btn-danger">Delete</button></td>
-                        </tr>
-                    {% endfor %}
-                    {% endif %}
-                </tbody>
-        </table>
+    <div class="row justify-content-center">
+        <div class="col col-lg-11">
+            <table class="table table-hover  table-responsive-lg">
+                <thead>
+                    <tr>
+                    <th>ID</th>
+                    <th>First</th>
+                    <th>Last</th>
+                    <th>Birthday</th>
+                    <th>College</th>
+                    <th>Height</th>
+                    <th>Weight</th>
+                    <th>Detail link</th>
+                    <th>Update</th>
+                    <th>Delete</th>
+                    </tr>
+                </thead>
+                    <tbody>
+                        {%if action == "all" %}
+                        {% for index in range(0, result_size) %}
+                            <tr>
+                                <th scope="row">{{all_players_list[index].player_id}}</th>
+                                <td>{{all_players_list[index].first_name}}</td>
+                                <td>{{all_players_list[index].last_name}}</td>
+                                <td>{{all_players_list[index].birthday}}</td>
+                                <td>{{all_players_list[index].college}}</td>
+                                <td>{{all_players_list[index].height}}</td>
+                                <td>{{all_players_list[index].weight}}</td>
+                                <td>{{all_players_list[index].detail_link}}</td>
+                                <td><button type="button" class="btn btn-info">Update</button></td>
+                                <td><a href="{{url_for('delete_entry', player_id=all_players_list[index].player_id)}}"><button type="button" class="btn btn-danger">Delete</button></a></td>
+                            </tr>
+                        {% endfor %}
+                        {% endif %}
+                    </tbody>
+            </table>
+        </div>
     </div>
 {% endblock %}
