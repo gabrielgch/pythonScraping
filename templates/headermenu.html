@@ -1,0 +1,33 @@
+<html>
+    <head>
+        <title>Python: NBA Web Scraping</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    </head>
+    <body>
+        <header>
+            <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-6 col-xl-6 ">
+                                <h1>NBA Python Project 2019</h1>
+                        </div>
+                    </div>
+                    <div class="row justify-content-center">
+                            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                                    <a class="navbar-brand" href="{{url_for('home')}}">Python</a>
+                                    <div class="collapse navbar-collapse" id="navbarContent">
+                                    <ul class="navbar-nav mr-auto">
+                                            <a class="nav-item nav-link" href="{{url_for('scrape', action='start')}}">Scrape Data</a>
+                                            <a class="nav-item nav-link" href="{{url_for('database', action='start')}}">Database</a>
+                                    </ul>
+                                    </div>
+                                </nav>
+                    </div>
+            </div>
+        </header>
+        <div class="container-fluid">
+            {% block content %}
+            {% endblock %}
+        </div>
+    </body>
+</html>

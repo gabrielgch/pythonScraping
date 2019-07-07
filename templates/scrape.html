@@ -1,0 +1,59 @@
+{% extends "headermenu.html" %}
+{% block content %}
+    <div class="row justify-content-center">
+        <h2>Scrape Content</h2>
+    </div>
+    <div class="row justify-content-center">
+        <p>Content scraped from: https://www.basketball-reference.com/players/</p>
+    </div>
+    <div class="row justify-content-center">
+        <a href="{{url_for('scrape', action="all")}}"><button type="button" class="btn btn-primary">Scrape Players</button></a>
+        <form method="POST" action="{{url_for('scrape', action='individual')}}">
+            <input type="text" name="" placeholder="Lebron">
+            <input type="submit" value="Search name">
+        </form>
+        <p>Results:{{result_size}}</p>
+    </div>
+    <div class="row justify-content-center">
+    <div class="col col-lg-11">
+        <table class="table table-hover  table-responsive-lg">
+            <thead>
+                <tr>
+                <div class="col-lg-10">
+                    <th>#</th>
+                </div>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Birthday</th>
+                <th>College</th>
+                <th>Height</th>
+                <th>Weight</th>
+                <th>Detail link</th>
+                <th>View Personal</th>
+                <th>DB</th>
+                </tr>
+            </thead>
+                <tbody>
+                    {%if action == "all" %}
+                    {% for index in range(0, result_size) %}
+                        <tr>
+                            <form action="{{url_for('database', action='add')}}">
+                                <th scope="row">{{index}}</th>
+                                <td><input type="text" size="15" class="form-control form-control-sm form-control-plaintext" name="first" value="{{all_players_list[index].first_name}}" readonly></td>
+                                <td><input type="text" size="20"class="form-control form-control-sm form-control-plaintext" name="last" value="{{all_players_list[index].last_name}}" readonly></td>
+                                <td><input type="text" size="25" class="form-control form-control-sm form-control-plaintext" name="birthday" value="{{all_players_list[index].birthday}}" readonly></td>
+                                <td><input type="text" size="40" class="form-control form-control-sm form-control-plaintext" name="college" value="{{all_players_list[index].college}}" readonly></td>
+                                <td><input type="text" size="4" class="form-control form-control-sm form-control-plaintext" name="height" value="{{all_players_list[index].height}}" readonly></td>
+                                <td><input type="text" size="4" class="form-control form-control-sm form-control-plaintext" name="weight" value="{{all_players_list[index].weight}}" readonly></td>
+                                <td><input type="text" size="30" class="form-control form-control-sm form-control-plaintext" name="detail_link" value="{{all_players_list[index].detail_link}}" readonly></td>
+                                <td><input type="submit" class="btn btn-primary" value="Add"></td>
+                            </form>
+                            <td><button type="button" class="btn btn-info">View</button></td>
+                        </tr>
+                    {% endfor %}
+                    {% endif %}
+                </tbody>
+        </table>
+    </div>
+    </div>
+{% endblock %}

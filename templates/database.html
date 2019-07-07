@@ -1,0 +1,50 @@
+{% extends "headermenu.html" %}
+{% block content %}
+    <div class="row">
+        <h2>Scrape Content</h2>
+    </div>
+    <div class="row">
+        <p>Content stored in database</p>
+    </div>
+    <div class="row">
+        <a href="{{url_for('scrape', action="all")}}"><button type="button" class="btn btn-primary">Scrape Players</button></a>
+        <form method="POST" action="{{url_for('scrape', action='individual')}}">
+            <input type="text" name="" placeholder="Lebron">
+            <input type="submit" value="Search name">
+        </form>
+    </div>
+    <div class="row">
+        <table class="table">
+            <thead>
+                <tr>
+                <th>#</th>
+                <th>Name</th>
+                <th>Birthday</th>
+                <th>College</th>
+                <th>Height</th>
+                <th>Weight</th>
+                <th>Detail link</th>
+                <th>Update</th>
+                <th>Delete</th>
+                </tr>
+            </thead>
+                <tbody>
+                    {%if action == "all" %}
+                    {% for index in range(0, result_size) %}
+                        <tr>
+                            <th scope="row"></th>
+                            <td>{{all_players_list[index].first_name}}</td>
+                            <td>{{all_players_list[index].birthday}}</td>
+                            <td>{{all_players_list[index].college}}</td>
+                            <td>{{all_players_list[index].height}}</td>
+                            <td>{{all_players_list[index].weight}}</td>
+                            <td>{{all_players_list[index].detail_link}}</td>
+                            <td><button type="button" class="btn btn-info">Update</button></td>
+                            <td><button type="button" class="btn btn-danger">Delete</button></td>
+                        </tr>
+                    {% endfor %}
+                    {% endif %}
+                </tbody>
+        </table>
+    </div>
+{% endblock %}
