@@ -1,0 +1,76 @@
+{% extends "headermenu.html" %}
+{% block content %}
+    <div class="row justify-content-center">
+        <h2>Scrape Content</h2>
+    </div>
+    <div class="row justify-content-center">
+        <p>Content scraped; view by profile</p>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col col-lg-2">
+            <div class="form-group row">
+                <div class="card">
+                    <img class="card-img-top" src="{{player.img_link}}" alt="image" height="180" width="120">
+                    <div class="card-body"><a href="{{player.detail_link}}">{{player.detail_link}}</a></div>
+                </div>
+            </div>
+        </div>
+        <div class="col col-lg-4">
+            <form method="POST" action="{{url_for('database', action='add')}}">
+                <div class="form-group row">
+                    <label for="inputFirst" class="col-sm-2 col-form-label">First Name</label>
+                    <div class="col-sm-10">
+                        <input type="text" name="first" class="form-control-plaintext" id="inputFirst" value="{{player.first}}" readonly>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label for="inputLast" class="col-sm-2 col-form-label">Last Name</label>
+                    <div class="col-sm-10">
+                        <input type="text" name="last" class="form-control-plaintext" id="inputLast" value="{{player.last}}" readonly>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label for="inputBirthday" class="col-sm-2 col-form-label">Birthday</label>
+                    <div class="col-sm-10">
+                        <input type="text" name="birthday" class="form-control-plaintext" id="inputBirthday" value="{{player.birthday}}" readonly>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label for="inputCollege" class="col-sm-2 col-form-label">College</label>
+                    <div class="col-sm-10">
+                        <input type="text" name="college" class="form-control-plaintext" id="inputCollege" value="{{player.college}}" readonly>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label for="inputHeight" class="col-sm-2 col-form-label">Height</label>
+                    <div class="col-sm-10">
+                        <input type="text" name="height" class="form-control-plaintext" id="inputHeight" value="{{player.height}}" readonly>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label for="inputWeight" class="col-sm-2 col-form-label">Weight</label>
+                    <div class="col-sm-10">
+                        <input type="text" name="weight" class="form-control-plaintext" id="inputWeight" value="{{player.weight}}" readonly>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label for="inputImage" class="col-sm-2 col-form-label">Image link</label>
+                    <div class="col-sm-10">
+                        <input type="text" name="img_link" class="form-control-plaintext" id="inputImage" value="{{player.img_link}}" readonly>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label for="inputDetail" class="col-sm-2 col-form-label">Detail Link</label>
+                    <div class="col-sm-10">
+                        <input type="text" name="detail_link" class="form-control-plaintext" id="inputDetail" value="{{player.detail_link}}" readonly>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <div class="col-sm-10 offset-sm-2">
+                    <input type="submit" class="btn btn-primary" value="Add">
+                    </div>
+                </div>
+            </form>      
+        </div>
+    </div>
+{% endblock %}

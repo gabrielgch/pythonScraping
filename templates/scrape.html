@@ -27,6 +27,7 @@
                 <th>Height</th>
                 <th>Weight</th>
                 <th>Detail link</th>
+                <th>Img Link</th>
                 <th>Database</th>
                 <th>View Profile</th>
                 </tr>
@@ -47,7 +48,17 @@
                                 <td><input type="text" size="30" class="form-control-plaintext form-control-sm " name="img_link" value="{{all_players_list[index].img_link}}" readonly></td>
                                 <td><input type="submit" class="btn btn-primary" value="Add"></td>
                             </form>
-                            <td><button type="button" class="btn btn-info">View</button></td>
+                            <form method="POST" action="{{url_for('profile')}}">
+                                <td><input type="submit" class="btn btn-primary" value="Profile"></td>
+                                <input type="text" name="first" value="{{all_players_list[index].first_name}}" hidden>
+                                <input type="text" name="last" value="{{all_players_list[index].last_name}}" hidden>
+                                <input type="text" name="birthday" value="{{all_players_list[index].birthday}}" hidden>
+                                <input type="text" name="college" value="{{all_players_list[index].college}}" hidden>
+                                <input type="text" name="height" value="{{all_players_list[index].height}}" hidden>
+                                <input type="text" name="weight" value="{{all_players_list[index].weight}}" hidden>
+                                <input type="text" name="detail_link" value="{{all_players_list[index].detail_link}}" hidden>
+                                <input type="text" name="img_link" value="{{all_players_list[index].img_link}}" hidden>
+                            </form>
                         </tr>
                     {% endfor %}
                     {% endif %}

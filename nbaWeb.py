@@ -82,6 +82,13 @@ def delete_entry(player_id):
         db.session.commit()
     return render_template('database.html', action='start')
 
+@app.route('/profile', methods=["GET", "POST"])
+def profile():
+    if request.form:
+        data = request.form
+        player_data = getData(data)
+        return render_template('profile.html', action='display', player=player_data)
+
 @app.route('/update', methods=["GET", "POST"])
 def update_entry():
     print(request.form.get('first'))

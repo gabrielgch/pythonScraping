@@ -26,6 +26,7 @@
                     <th>Height</th>
                     <th>Weight</th>
                     <th>Detail link</th>
+                    <th>Img Link</th>
                     <th>Update</th>
                     <th>Delete</th>
                     </tr>
@@ -41,6 +42,7 @@
                                 <td>{{all_players_list[index].college}}</td>
                                 <td>{{all_players_list[index].height}}</td>
                                 <td>{{all_players_list[index].weight}}</td>
+                                <td>{{all_players_list[index].detail_link}}</td>
                                 <td>{{all_players_list[index].detail_link}}</td>
                                 <td><a href="{{url_for('get_data_update', player_id=all_players_list[index].player_id)}}"><button type="button" class="btn btn-info">Update</button></a></td>
                                 <td><a href="{{url_for('delete_entry', player_id=all_players_list[index].player_id)}}"><button type="button" class="btn btn-danger">Delete</button></a></td>
