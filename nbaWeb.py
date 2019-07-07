@@ -34,10 +34,11 @@ class Player(db.Model):
     birthday = db.Column(db.String(80), nullable=True, )
     height = db.Column(db.Float, nullable=False, )
     weight = db.Column(db.Float, nullable=False, )
-    detail_link = db.Column(db.String(100), nullable=False, )
+    detail_link = db.Column(db.String(150), nullable=False, )
+    img_link = db.Column(db.String(150), nullable=True, )
     """missing year_in, year_out, image""" #!IMPORTANT
 
-    def __init__(self, first_name,last_name,college,birthday,height,weight,detail_link):
+    def __init__(self, first_name,last_name,college,birthday,height,weight,detail_link, img_link):
         self.first_name = first_name
         self.last_name = last_name
         self.college = college
@@ -45,11 +46,12 @@ class Player(db.Model):
         self.height = height
         self.weight = weight
         self.detail_link = detail_link
+        self.img_link = img_link
 
 db.create_all()
 
 def getData(data):
-    keys = ["first", "last", "college", "birthday", "height", "weight", "detail_link"]
+    keys = ["first", "last", "college", "birthday", "height", "weight", "detail_link", "img_link"]
     values = []
     values.append(data.get('first'))
     values.append(data.get('last'))
@@ -60,31 +62,56 @@ def getData(data):
     values.append(float(height))
     values.append(float(data.get('weight')))
     values.append(data.get('detail_link'))
+    values.append(data.get('img_link'))
     player = dict(zip(keys,values))
 
     return player
 
 def insertPlayer(player):
     toInsert = Player(player['first'],player['last'],player['college'],player['birthday'],player['height'],\
-        player['weight'],player['detail_link'])
+        player['weight'],player['detail_link'], player['img_link'])
     db.session.add(toInsert)
     db.session.commit()
     print("INSERTED")
 
 @app.route('/delete_entry<player_id>')
 def delete_entry(player_id):
-    print(">>"+player_id)
     player_found = Player.query.filter_by(player_id=player_id).first()
     if player_found is not None:
         db.session.delete(player_found)
         db.session.commit()
     return render_template('database.html', action='start')
 
+@app.route('/update', methods=["GET", "POST"])
+def update_entry():
+    print(request.form.get('first'))
+    if request.form:
+        data = request.form
+        player_data = getData(data)
+        player_id = data['player_id']
+        player = Player.query.filter_by(player_id = player_id).first()
+        player.first_name = player_data['first']
+        player.last_name = player_data['last']
+        player.college = player_data['college']
+        player.birthday = player_data['birthday']
+        player.height = player_data['height']
+        player.weight = player_data['weight']
+        player.detail_link = player_data['detail_link']
+        player.img_link = player_data['img_link']
+        db.session.commit()
+    return render_template('database.html', action='start')
+
+@app.route('/entry_find<player_id>')
+def get_data_update(player_id):
+    player_found = Player.query.filter_by(player_id=player_id).first()
+    if player_found is None:
+        return render_template('error.html')
+    return render_template('update.html',player=player_found)
+
 @app.route('/search_all')
 def search_all():
     players = Player.query.all()
     res_size = len(players)
-    print(players[0].player_id)
     return render_template('database.html', action='all', all_players_list=players, result_size=res_size)
     
 
