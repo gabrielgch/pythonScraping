@@ -28,7 +28,7 @@ def get_player_image(player_detail_link):
 
     if meta.div.find('img') != None:
         img = meta.div.img['src']  # player had an image
-        print '>>' + img
+        print('>>' + img)
     else:
         img = 'not_found'  # player did not have an image """
 
@@ -38,7 +38,7 @@ def get_player_image(player_detail_link):
 def scrape_players_data(list_letters):
     players_list = []
     for x in list_letters:
-        print ('Players Whose name starts with ', x)
+        print(('Players Whose name starts with ', x))
         url = url_base + '/players/' + x + '/'
 
         # open connection
@@ -103,12 +103,12 @@ def scrape_players_data(list_letters):
 
 
 def search_playerby_name(name_search):
-    print name_search
+    print(name_search)
     pattern = re.compile('%' + name_search.lower() + '%')
     players_list = []
     alphabet = [x for x in string.ascii_lowercase if x != 'x']
     for x in alphabet:
-        print ('Players Whose name starts with ', x)
+        print(('Players Whose name starts with ', x))
         url = url_base + '/players/' + x + '/'
 
         # open connection
@@ -167,7 +167,3 @@ def search_playerby_name(name_search):
 
         player['img_link'] = get_player_image(player['detail_link'])
     return players_list
-
-
-
-			
