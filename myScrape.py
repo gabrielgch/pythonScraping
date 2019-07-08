@@ -167,3 +167,4 @@ def search_playerby_name(name_search):
 
         player['img_link'] = get_player_image(player['detail_link'])
     return players_list
+			
