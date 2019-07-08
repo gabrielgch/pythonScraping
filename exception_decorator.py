@@ -1,6 +1,7 @@
 import functools
 import logging
  
+#Creates a logging object and returns it 
 def create_logger():
     """
     Creates a logging object and returns it
@@ -9,7 +10,7 @@ def create_logger():
     logger.setLevel(logging.INFO)
  
     # create the logging file handler
-    fh = logging.FileHandler("/home/emmanuel/Documents/python/pythonScraping/Logs.txt")
+    fh = logging.FileHandler("./LogDetails/Logs.txt")
  
     fmt = '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
     formatter = logging.Formatter(fmt)
@@ -19,7 +20,7 @@ def create_logger():
     logger.addHandler(fh)
     return logger
  
- 
+#decorator function wrapped in a try /except that occur using the logger
 def exception(function):
     """
     A decorator that wraps the passed in function and logs 

@@ -2,7 +2,7 @@ import time
 import functools
 import logging
  
-
+#Creates a logging object
 def create_logger():
     """
     Creates a logging object and returns it
@@ -11,7 +11,7 @@ def create_logger():
     logger.setLevel(logging.INFO)
  
     # create the logging file handler
-    fh = logging.FileHandler("/home/emmanuel/Documents/python/pythonScraping/RunTime.txt")
+    fh = logging.FileHandler("./LogDetails/RunTime.txt")
  
     fmt = '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
     formatter = logging.Formatter(fmt)
@@ -21,6 +21,7 @@ def create_logger():
     logger.addHandler(fh)
     return logger
 
+#Decorator function to declare the run time of a method
 def timeit(method):
     
     def timed(*args, **kw):
@@ -34,9 +35,7 @@ def timeit(method):
             'log_name', method.__name__.upper())
                 kw[
             'log_time'][name] = int((te - ts) * 1000)
-            
-        else:
-                
+        else:   
             logger.exception('%r  %2.2f ms' % (method.__name__, (te - ts) * 1000))
         return result
     return timed
