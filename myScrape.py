@@ -26,7 +26,7 @@ def get_player_image(player_detail_link):
 
     # not all players have an image so we must check if it exists
 
-    if meta.div.find('img') != None:
+    if meta.div.find('img') not None:
         img = meta.div.img['src']  # player had an image
         print('>>' + img)
     else:
@@ -70,7 +70,7 @@ def scrape_players_data(list_letters):
 
             if int(player_data[1].text) >= 1950:
 
-                # get name from th tag that contains an a tag with the text name of player
+                # get name from tag that contains a tag with the name of player
 
                 name = row.th.a.text
 
@@ -140,10 +140,8 @@ def search_playerby_name(name_search):
 
             name = row.th.a.text
             name = name.split(' ', 1)
-            if int(player_data[1].text) >= 1950 \
-                and name[0].lower().find(name_search) != -1:
-                player_info = {'first_name': name[0],
-                               'last_name': name[1]}
+            if int(player_data[1].text) >= 1950 and name[0].lower().find(name_search) != -1:
+                player_info = {'first_name': name[0], 'last_name': name[1]}
                 player_info['year_in'] = player_data[1].text
                 player_info['year_out'] = player_data[2].text
                 player_info['height'] = player_data[3].text
@@ -167,4 +165,3 @@ def search_playerby_name(name_search):
 
         player['img_link'] = get_player_image(player['detail_link'])
     return players_list
-			
