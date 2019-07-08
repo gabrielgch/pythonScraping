@@ -7,13 +7,57 @@
         <p>Content scraped from: https://www.basketball-reference.com/players/</p>
     </div>
     <div class="row justify-content-center">
-        <a href="{{url_for('scrape', action="all")}}"><button type="button" class="btn btn-primary">Scrape Players</button></a>
-        <form method="POST" action="{{url_for('scrape', action='individual')}}">
-            <input type="text" name="" placeholder="Lebron">
+        <div class="btn-toolbar">
+            <div class="btn-group btn-group-sm">
+            <a href="{{url_for('scrape', action='a')}}"><button class="btn btn-default">A</button></a>
+            <a href="{{url_for('scrape', action='b')}}"><button class="btn btn-default">B</button></a>
+            <a href="{{url_for('scrape', action='c')}}"><button class="btn btn-default">C</button></a>
+            <a href="{{url_for('scrape', action='d')}}"><button class="btn btn-default">D</button></a>
+            <a href="{{url_for('scrape', action='e')}}"><button class="btn btn-default">E</button></a>
+            <a href="{{url_for('scrape', action='f')}}"><button class="btn btn-default">F</button></a>
+            <a href="{{url_for('scrape', action='g')}}"><button class="btn btn-default">G</button></a>
+            <a href="{{url_for('scrape', action='h')}}"><button class="btn btn-default">H</button></a>
+            <a href="{{url_for('scrape', action='i')}}"><button class="btn btn-default">I</button></a>
+            <a href="{{url_for('scrape', action='j')}}"><button class="btn btn-default">J</button></a>
+            <a href="{{url_for('scrape', action='k')}}"><button class="btn btn-default">K</button></a>
+            <a href="{{url_for('scrape', action='l')}}"><button class="btn btn-default">L</button></a>
+            <a href="{{url_for('scrape', action='m')}}"><button class="btn btn-default">M</button></a>
+            <a href="{{url_for('scrape', action='n')}}"><button class="btn btn-default">N</button></a>
+            <a href="{{url_for('scrape', action='o')}}"><button class="btn btn-default">O</button></a>
+            <a href="{{url_for('scrape', action='p')}}"><button class="btn btn-default">P</button></a>
+            <a href="{{url_for('scrape', action='q')}}"><button class="btn btn-default">Q</button></a>
+            <a href="{{url_for('scrape', action='r')}}"><button class="btn btn-default">R</button></a>
+            <a href="{{url_for('scrape', action='s')}}"><button class="btn btn-default">S</button></a>
+            <a href="{{url_for('scrape', action='t')}}"><button class="btn btn-default">T</button></a>
+            <a href="{{url_for('scrape', action='u')}}"><button class="btn btn-default">U</button></a>
+            <a href="{{url_for('scrape', action='v')}}"><button class="btn btn-default">V</button></a>
+            <a href="{{url_for('scrape', action='w')}}"><button class="btn btn-default">W</button></a>
+            <a href="{{url_for('scrape', action='y')}}"><button class="btn btn-default">Y</button></a>
+            <a href="{{url_for('scrape', action='z')}}"><button class="btn btn-default">Z</button></a>
+            </div>
+        </div>
+    </div><br>
+    <div class="row justify-content-center">
+        <div class="btn-toolbar mr-4">
+            <a href="{{url_for('scrape', action='all')}}"><button type="button" class="btn btn-primary">Scrape Players</button></a>
+            <a href="{{url_for('export', frmt_export='json', caller='scrape')}}"><button type="button" class="btn btn-warning">Export JSON</button></a>
+            <a href="{{url_for('export', frmt_export='csv', caller='scrape')}}"><button type="button" class="btn btn-success">Export CSV</button></a>
+        </div>
+    </div><br>
+    <div class="row justify-content-center">
+        <form method="POST" action="{{url_for('scrape', action='byname')}}">
+            <input type="text" name="individual_name" placeholder="Lebron">
             <input type="submit" value="Search name">
         </form>
-        <p>Results:{{result_size}}</p>
     </div>
+    <div class="row justify-content-center">
+        <p>Results: {{result_size}}</p>
+    </div>
+    {% if err_msg != "" %}
+        <div class="row justify-content-center">
+            <div >{{err_msg}}</div>
+        </div>
+        {% endif %}
     <div class="row justify-content-center">
     <div class="col col-lg-11">
         <table class="table table-hover  table-responsive-lg">
@@ -33,7 +77,7 @@
                 </tr>
             </thead>
                 <tbody>
-                    {%if action == "all" %}
+                    {%if action != "start" %}
                     {% for index in range(0, result_size) %}
                         <tr>
                             <form action="{{url_for('database', action='add')}}" method="POST">
