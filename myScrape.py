@@ -1,10 +1,16 @@
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 import string, re
-
+from exception_decorator import exception
+from timer import timeit
+import time
+import functools
 
 url_base = "https://www.basketball-reference.com"
 
+
+@timeit
+@exception
 def get_player_image(player_detail_link):
     #get players picture
     #must open new connection with the detail link we found
@@ -24,7 +30,10 @@ def get_player_image(player_detail_link):
     
     return img
 
+@timeit
+@exception
 def scrape_players_data(list_letters):
+
     players_list= []
     for x in list_letters:
         print("Players Whose name starts with ", x )
@@ -62,11 +71,13 @@ def scrape_players_data(list_letters):
                 #add each player dictionary to list
                 players_list.append(player_info)
             if(len(players_list) ==50):
-                break;
+                break
         if(len(players_list) ==50):
-            break;
+            break
     return players_list
 
+@timeit
+@exception
 def search_playerby_name(name_search):
     print(name_search)
     pattern = re.compile("%"+name_search.lower()+"%")
@@ -105,9 +116,9 @@ def search_playerby_name(name_search):
                 #add each player dictionary to list
                 players_list.append(player_info)
             if(len(players_list) ==50):
-                break;
+                break
         if(len(players_list) ==50):
-            break;
+            break
     for player in players_list:
         #find player image
         player['img_link'] = get_player_image(player['detail_link'])

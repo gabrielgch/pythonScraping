@@ -3,16 +3,25 @@ from flask import render_template
 import myScrape
 import re, string, os, json
 from datetime import datetime
+from exception_decorator import exception
+from timer import timeit
+import time
+import functools
 
 app = Flask(__name__)
 temp_export=[]
 JSON_FILEPATH = os.path.join(os.getcwd(), os.path.basename("/json"))
 CSV_FILEPATH = os.path.join(os.getcwd(), os.path.basename("/csv"))
 
+@timeit
+@exception
 @app.route('/', methods=["GET","POST"])
 def home():
     return render_template('index.html')
 
+
+@timeit
+@exception
 @app.route("/export<frmt_export>/<caller>", methods=["GET", "POST"])
 def export(frmt_export,caller):
     global temp_export
@@ -34,6 +43,8 @@ def export(frmt_export,caller):
         result_size=len([]), err_msg = err_msg)
 
 
+@timeit
+@exception
 @app.route('/scrape/<action>', methods=["GET", "POST"])
 def scrape(action):
     global temp_export
@@ -91,6 +102,9 @@ class Player(db.Model):
 
 db.create_all()
 
+
+@timeit
+@exception
 def getData(data):
     keys = ["first", "last", "college", "birthday", "height", "weight", "detail_link", "img_link"]
     values = []
@@ -108,6 +122,9 @@ def getData(data):
 
     return player
 
+
+@timeit
+@exception
 def check_notempty(data):
     valid = True
     if (data['first'] == "" or None) or (data['last']=="" or None) or (data['college']=="" or None)\
@@ -117,6 +134,8 @@ def check_notempty(data):
     
     return valid
 
+@timeit
+@exception
 def export_file(file_format="csv"):
     global temp_export
     unique = datetime.now().strftime("%d-%m-%Y_%H%M%S")
@@ -135,6 +154,8 @@ def export_file(file_format="csv"):
         with open(os.path.join(JSON_FILEPATH,filename+".json"), "w") as f:
             json.dump(temp_export,f)
 
+@timeit
+@exception
 def insertPlayer(player):
     err_msg=""
     try:
@@ -149,6 +170,8 @@ def insertPlayer(player):
         err_msg = "Error: Height and Weight values must be decimal values...update aborted"
     return err_msg
 
+@timeit
+@exception
 @app.route('/delete_entry<player_id>')
 def delete_entry(player_id):
     player_found = Player.query.filter_by(player_id=player_id).first()
@@ -157,6 +180,9 @@ def delete_entry(player_id):
         db.session.commit()
     return render_template('database.html', action='start')
 
+
+@timeit
+@exception
 @app.route('/profile', methods=["GET", "POST"])
 def profile():
     if request.form:
@@ -164,6 +190,8 @@ def profile():
         player_data = getData(data)
         return render_template('profile.html', action='display', player=player_data)
 
+@timeit
+@exception
 @app.route('/update', methods=["GET", "POST"])
 def update_entry():
     err_msg = ""
@@ -191,6 +219,8 @@ def update_entry():
             err_msg = "Error: Empty value found...update aborted"
     return render_template('database.html', action='start', err_msg = err_msg)
 
+@timeit
+@exception
 @app.route('/entry_find<player_id>')
 def get_data_update(player_id):
     player_found = Player.query.filter_by(player_id=player_id).first()
@@ -199,6 +229,8 @@ def get_data_update(player_id):
         render_template('database.html', action='start', all_players_list=[], result_size=0, err_msg=err_msg)
     return render_template('update.html',player=player_found)
 
+@timeit
+@exception
 def formatfor_export(data):
     d = [dict(x.__dict__) for x in data]
     for x in d:
@@ -206,6 +238,8 @@ def formatfor_export(data):
     
     return d
 
+@timeit
+@exception
 @app.route('/search_all')
 def search_all():
     global temp_export
@@ -214,6 +248,8 @@ def search_all():
     temp_export = formatfor_export(players)
     return render_template('database.html', action='all', all_players_list=players, result_size=res_size)
 
+@timeit
+@exception
 @app.route('/search<action>', methods=["GET","POST"])
 def search(action):
     global temp_export
@@ -241,7 +277,9 @@ def search(action):
         return render_template('database.html', action=action, all_players_list=players,\
             err_msg=err_msg, result_size=res_size)
     
-
+    
+@timeit
+@exception
 @app.route('/database/<action>', methods=["GET", "POST"])
 def database(action):
     err_msg = ""

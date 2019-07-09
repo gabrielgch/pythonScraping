@@ -1,0 +1,61 @@
+2019-07-08 10:47:56,978 - example_logger - ERROR - There was an exceptionget_player_image
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/urllib/request.py", line 1317, in do_open
+    encode_chunked=req.has_header('Transfer-encoding'))
+  File "/usr/lib/python3.7/http/client.py", line 1229, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.7/http/client.py", line 1275, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.7/http/client.py", line 1224, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.7/http/client.py", line 1016, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.7/http/client.py", line 956, in send
+    self.connect()
+  File "/usr/lib/python3.7/http/client.py", line 1384, in connect
+    super().connect()
+  File "/usr/lib/python3.7/http/client.py", line 928, in connect
+    (self.host,self.port), self.timeout, self.source_address)
+  File "/usr/lib/python3.7/socket.py", line 727, in create_connection
+    raise err
+  File "/usr/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+TimeoutError: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/emmanuel/Documents/python/pythonScraping/exception_decorator.py", line 32, in wrapper
+    return function(*args, **kwargs)
+  File "/home/emmanuel/Documents/python/pythonScraping/myScrape.py", line 17, in get_player_image
+    client = urlopen(player_detail_link)
+  File "/usr/lib/python3.7/urllib/request.py", line 222, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.7/urllib/request.py", line 525, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.7/urllib/request.py", line 543, in _open
+    '_open', req)
+  File "/usr/lib/python3.7/urllib/request.py", line 503, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.7/urllib/request.py", line 1360, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.7/urllib/request.py", line 1319, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 110] Connection timed out>
+2019-07-08 16:16:25,577 - example_logger - ERROR - Function name: get_player_image
+Traceback (most recent call last):
+  File "/home/emmanuel/Documents/python/pythonScraping/exception_decorator.py", line 32, in wrapper
+    return function(*args, **kwargs)
+  File "/home/emmanuel/Documents/python/pythonScraping/myScrape.py", line 17, in get_player_image
+    client = urlopen(player_detail_link)
+  File "/usr/lib/python3.7/urllib/request.py", line 222, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.7/urllib/request.py", line 510, in open
+    req = Request(fullurl, data)
+  File "/usr/lib/python3.7/urllib/request.py", line 328, in __init__
+    self.full_url = url
+  File "/usr/lib/python3.7/urllib/request.py", line 354, in full_url
+    self._parse()
+  File "/usr/lib/python3.7/urllib/request.py", line 383, in _parse
+    raise ValueError("unknown url type: %r" % self.full_url)
+ValueError: unknown url type: 'yes.com'
