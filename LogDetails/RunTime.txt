@@ -2,3 +2,17 @@
 NoneType: None
 2019-07-08 16:17:53,811 - Time Logger - ERROR - 'get_player_image'  4731.91 ms
 NoneType: None
+2019-07-09 05:49:01,134 - Time Logger - ERROR - 'format_for_export'  1.00 ms
+NoneType: None
+2019-07-09 05:49:09,931 - Time Logger - ERROR - 'format_for_export'  0.00 ms
+NoneType: None
+2019-07-09 05:49:09,931 - Time Logger - ERROR - 'format_for_export'  0.00 ms
+NoneType: None
+2019-07-09 05:50:34,521 - Time Logger - ERROR - 'format_for_export'  1.00 ms
+NoneType: None
+2019-07-09 05:51:16,357 - Time Logger - ERROR - 'format_for_export'  0.00 ms
+NoneType: None
+2019-07-09 05:52:29,056 - Time Logger - ERROR - 'format_for_export'  1.00 ms
+NoneType: None
+2019-07-09 05:53:40,839 - Time Logger - ERROR - 'format_for_export'  0.00 ms
+NoneType: None

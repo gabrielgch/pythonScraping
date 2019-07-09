@@ -59,3 +59,31 @@ Traceback (most recent call last):
   File "/usr/lib/python3.7/urllib/request.py", line 383, in _parse
     raise ValueError("unknown url type: %r" % self.full_url)
 ValueError: unknown url type: 'yes.com'
+2019-07-09 05:52:31,103 - example_logger - ERROR - Function name: export_file
+Traceback (most recent call last):
+  File "C:\Users\Gabo\Desktop\pythonScraping\exception_decorator.py", line 33, in wrapper
+    return function(*args, **kwargs)
+  File "C:\Users\Gabo\Desktop\pythonScraping\nbaWeb.py", line 202, in export_file
+    with open(os.path.join(JSON_FILEPATH,filename.join('.json')), 'w') as f:
+OSError: [Errno 22] Invalid argument: 'C:\\Users\\Gabo\\Desktop\\pythonScraping\\json\\.0data-9data--data-0data-7data--data-2data-0data-1data-9data-_data-0data-5data-5data-2data-3data-1j0data-9data--data-0data-7data--data-2data-0data-1data-9data-_data-0data-5data-5data-2data-3data-1s0data-9data--data-0data-7data--data-2data-0data-1data-9data-_data-0data-5data-5data-2data-3data-1o0data-9data--data-0data-7data--data-2data-0data-1data-9data-_data-0data-5data-5data-2data-3data-1n'
+2019-07-09 05:52:31,103 - example_logger - ERROR - Function name: export_file
+Traceback (most recent call last):
+  File "C:\Users\Gabo\Desktop\pythonScraping\exception_decorator.py", line 33, in wrapper
+    return function(*args, **kwargs)
+  File "C:\Users\Gabo\Desktop\pythonScraping\nbaWeb.py", line 202, in export_file
+    with open(os.path.join(JSON_FILEPATH,filename.join('.json')), 'w') as f:
+OSError: [Errno 22] Invalid argument: 'C:\\Users\\Gabo\\Desktop\\pythonScraping\\json\\.0data-9data--data-0data-7data--data-2data-0data-1data-9data-_data-0data-5data-5data-2data-3data-1j0data-9data--data-0data-7data--data-2data-0data-1data-9data-_data-0data-5data-5data-2data-3data-1s0data-9data--data-0data-7data--data-2data-0data-1data-9data-_data-0data-5data-5data-2data-3data-1o0data-9data--data-0data-7data--data-2data-0data-1data-9data-_data-0data-5data-5data-2data-3data-1n'
+2019-07-09 05:53:43,689 - example_logger - ERROR - Function name: export_file
+Traceback (most recent call last):
+  File "C:\Users\Gabo\Desktop\pythonScraping\exception_decorator.py", line 33, in wrapper
+    return function(*args, **kwargs)
+  File "C:\Users\Gabo\Desktop\pythonScraping\nbaWeb.py", line 203, in export_file
+    with open(os.path.join(JSON_FILEPATH,filename.join('.json')), 'w') as f:
+OSError: [Errno 22] Invalid argument: 'C:\\Users\\Gabo\\Desktop\\pythonScraping\\json\\.0data-9data--data-0data-7data--data-2data-0data-1data-9data-_data-0data-5data-5data-3data-4data-3j0data-9data--data-0data-7data--data-2data-0data-1data-9data-_data-0data-5data-5data-3data-4data-3s0data-9data--data-0data-7data--data-2data-0data-1data-9data-_data-0data-5data-5data-3data-4data-3o0data-9data--data-0data-7data--data-2data-0data-1data-9data-_data-0data-5data-5data-3data-4data-3n'
+2019-07-09 05:53:43,689 - example_logger - ERROR - Function name: export_file
+Traceback (most recent call last):
+  File "C:\Users\Gabo\Desktop\pythonScraping\exception_decorator.py", line 33, in wrapper
+    return function(*args, **kwargs)
+  File "C:\Users\Gabo\Desktop\pythonScraping\nbaWeb.py", line 203, in export_file
+    with open(os.path.join(JSON_FILEPATH,filename.join('.json')), 'w') as f:
+OSError: [Errno 22] Invalid argument: 'C:\\Users\\Gabo\\Desktop\\pythonScraping\\json\\.0data-9data--data-0data-7data--data-2data-0data-1data-9data-_data-0data-5data-5data-3data-4data-3j0data-9data--data-0data-7data--data-2data-0data-1data-9data-_data-0data-5data-5data-3data-4data-3s0data-9data--data-0data-7data--data-2data-0data-1data-9data-_data-0data-5data-5data-3data-4data-3o0data-9data--data-0data-7data--data-2data-0data-1data-9data-_data-0data-5data-5data-3data-4data-3n'
