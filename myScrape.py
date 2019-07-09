@@ -9,7 +9,6 @@ from exception_decorator import exception
 
 URL_BASE = 'https://www.basketball-reference.com'
 
-
 @timeit
 @exception
 def get_player_image(player_detail_link):
@@ -50,7 +49,7 @@ def scrape_players_data(list_letters):
     players_list= []
     for x in list_letters:
         print('Players Whose name starts with ', x )
-        url = URL_BASE+"/players/" + x + "/"
+        url = URL_BASE+'/players/' + x + '/'
         client = urlopen(url)
         soup = BeautifulSoup(client.read(),'html.parser')  # Get soup tags
         client.close()
@@ -90,11 +89,11 @@ def search_playerby_name(name_search):
     It can be slow since it opens each player's page to find image.
     It has a limit of 50 items. 
     """
-    pattern = re.compile("%"+name_search.lower()+"%")
+    pattern = re.compile('%'+name_search.lower()+'%')
     players_list= []
     alphabet = [x for x in string.ascii_lowercase if x !='x']
     for x in alphabet:        
-        url = URL_BASE + "/players/" + x + "/"
+        url = URL_BASE + '/players/' + x + '/'
         client = urlopen(url)
         soup = BeautifulSoup(client.read(),'html.parser')
         client.close()
