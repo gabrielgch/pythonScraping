@@ -12,7 +12,6 @@ from flask import Flask, request, render_template
 from exception_decorator import exception
 import myScrape
 
-
 JSON_FILEPATH = os.path.join(os.getcwd(), os.path.basename('/json'))
 CSV_FILEPATH = os.path.join(os.getcwd(), os.path.basename('/csv'))
 DATABASE_FILE = 'sqlite:///nba_players.db'
