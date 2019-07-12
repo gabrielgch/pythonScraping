@@ -34,11 +34,12 @@ def get_player_image(player_detail_link):
 
 @timeit
 @exception
-def scrape_players_data(list_letters):
+def scrape_players_data(list_letters, lim=10):
     """Scrapess for players whose first name starts with parameter.
 
     Keyword arguments
     list_letters -- contains first letter of name to look for
+    limit -- upper bound of results
 
     It scrapes page with given initial letter for players' first name.
     Which start with that letter.
@@ -54,7 +55,7 @@ def scrape_players_data(list_letters):
         soup = BeautifulSoup(client.read(),'html.parser')  # Get soup tags
         client.close()
         table_body = soup.find('tbody')  # Get tag where player info is
-        player_rows = table_body.findAll('tr', limit=10)
+        player_rows = table_body.findAll('tr', limit=lim)
         for row in player_rows:
             player_data = row.findAll('td')  # Get player row data
             if int(player_data[1].text) >= 1950:

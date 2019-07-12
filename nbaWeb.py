@@ -127,7 +127,7 @@ def create_app(env='dev'):
                 all_players_list = []
         elif pattern.match(action):
             letter = action
-            all_players_list = myScrape.scrape_players_data(list(letter))
+            all_players_list = myScrape.scrape_players_data(list(letter), lim=50)
         else:
             all_players_list = []
         temp_export = all_players_list
@@ -462,7 +462,7 @@ if __name__ == '__main__':
     elif args.letter:
         char = args.letter
         char = char[0]
-        results = myScrape.scrape_players_data(list(char))
+        results = myScrape.scrape_players_data(list(char),lim=50)
         if args.silent == False:
             print_results(results)
         if args.export:
