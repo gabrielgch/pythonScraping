@@ -5,17 +5,18 @@ import json
 import time
 import argparse
 import functools
-from timer import timeit
 from datetime import datetime
 from flask_sqlalchemy import SQLAlchemy
 from flask import Flask, request, render_template
-from exception_decorator import exception
 import myScrape
+from control_decorators import log_calls
+import project_globals
 
 JSON_FILEPATH = os.path.join(os.getcwd(), os.path.basename('/json'))
 CSV_FILEPATH = os.path.join(os.getcwd(), os.path.basename('/csv'))
 DATABASE_FILE = 'sqlite:///nba_players.db'
 temp_export=[]
+
 db = SQLAlchemy()   
 
 def create_app(env='dev'):
@@ -56,16 +57,13 @@ def create_app(env='dev'):
             self.detail_link = detail_link
             self.img_link = img_link
 
-    @timeit
-    @exception
+    @log_calls
     @app.route('/', methods=['GET','POST'])
     def home():
         """Displays the landing (index) page."""
         return render_template('index.html')
 
-
-    @timeit
-    @exception
+    @log_calls
     @app.route('/export<frmt_export>/<caller>', methods=['GET', 'POST'])
     def export(frmt_export, caller):
         """Export data to a file in JSON or CSV.
@@ -96,9 +94,7 @@ def create_app(env='dev'):
             all_players_list=[], result_size=len([]),
             err_msg=err_msg)
 
-
-    @timeit
-    @exception
+    @log_calls
     @app.route('/scrape/<action>', methods=['GET', 'POST'])
     def scrape(action):
         """Handles scrape requests by the user.
@@ -134,8 +130,7 @@ def create_app(env='dev'):
             'scrape.html', action=action, all_players_list=all_players_list,
             result_size=len(all_players_list), err_msg=err_msg)
 
-    @timeit
-    @exception
+    @log_calls
     def get_data(data):
         """Formats Player db search result to dictionary.
 
@@ -164,9 +159,7 @@ def create_app(env='dev'):
 
         return player
 
-
-    @timeit
-    @exception
+    @log_calls
     def check_notempty(data):
         """Checks if dictionary values of data are not empty."""
         valid = True
@@ -179,8 +172,7 @@ def create_app(env='dev'):
         
         return valid
 
-    @timeit
-    @exception
+    @log_calls
     def insert_player(player):
         """Inserts player into Flask-sqlAlchemy database.
 
@@ -206,8 +198,7 @@ def create_app(env='dev'):
                     ' must be decimal values...update aborted'
         return err_msg
 
-    @timeit
-    @exception
+    @log_calls
     @app.route('/delete_entry<player_id>')
     def delete_entry(player_id):
         """Deletes a player entry in Flask-sqlAlchemy db.
@@ -224,9 +215,7 @@ def create_app(env='dev'):
             db.session.commit()
         return render_template('database.html', action='start')
 
-
-    @timeit
-    @exception
+    @log_calls
     @app.route('/profile', methods=['GET', 'POST'])
     def profile():
         """Renders player view from scrape data."""
@@ -237,8 +226,7 @@ def create_app(env='dev'):
                 'profile.html', action='display',
                 player=player_data)
 
-    @timeit
-    @exception
+    @log_calls
     @app.route('/update', methods=['GET', 'POST'])
     def update_entry():
         """Performs an update to a single Player row.
@@ -275,8 +263,7 @@ def create_app(env='dev'):
             action='start',
             err_msg=err_msg)
 
-    @timeit
-    @exception
+    @log_calls
     @app.route('/entry_find<player_id>')
     def get_data_update(player_id):
         """Finds player data to display in update page
@@ -292,8 +279,6 @@ def create_app(env='dev'):
 
         return render_template('update.html',player=player_found)
 
-    @timeit
-    @exception
     def format_for_export(data):
         """Transforms Player cols into a dictionary used for export."""
         d = [dict(x.__dict__) for x in data]
@@ -301,8 +286,7 @@ def create_app(env='dev'):
             del x['_sa_instance_state']
         return d
 
-    @timeit
-    @exception
+    @log_calls
     @app.route('/search_all')
     def search_all():
         """Obtain all Player values from database."""
@@ -313,8 +297,7 @@ def create_app(env='dev'):
         return render_template('database.html', action='all',
             all_players_list=players, result_size=res_size)
 
-    @timeit
-    @exception
+    @log_calls
     @app.route('/search<action>', methods=['GET','POST'])
     def search(action):
         """Performs search to database.
@@ -353,9 +336,7 @@ def create_app(env='dev'):
                 'database.html', action=action, all_players_list=players,
                 err_msg=err_msg, result_size=res_size)
         
-        
-    @timeit
-    @exception
+    @log_calls
     @app.route('/database/<action>', methods=['GET', 'POST'])
     def database(action):
         """Displays database page and handles insertion to db.
@@ -380,8 +361,6 @@ def create_app(env='dev'):
             err_msg=err_msg)
     return app
 
-@timeit
-@exception
 def export_file(file_format='csv'):
     """Exports result data to a file with given format.
 
@@ -425,6 +404,8 @@ if __name__ == '__main__':
     """Will check the command line options for scraping and running webapp."""
     parser = argparse.ArgumentParser(description='Flask NBA app')
     group = parser.add_mutually_exclusive_group()
+    decorator_group = parser.add_mutually_exclusive_group()
+    decorator_group1 = parser.add_mutually_exclusive_group()
     group.add_argument(
         '-n', '--name', required=False, dest='name', type=str,
         help='Scrapes first name of nba players since 1950.'
@@ -450,6 +431,31 @@ if __name__ == '__main__':
         '-s', '--silent', required=False, action='store_true',
         help='Does not print results to command line.'
     )
+    parser.add_argument(
+        '-b', '--log', required=False, action='store_true',
+        help='Toggle call logging decorator.'
+    )
+    parser.add_argument(
+        '-j', '--timelog', required=False, action='store_true',
+        help='Toggle time logging decorator.'
+    )
+    decorator_group.add_argument(
+        '-z', '--defcalllog', required=False, action='store_true',
+        help='Toggle call logging to default file.'
+    )
+    decorator_group1.add_argument(
+        '-y', '--deftimelog', required=False, action='store_true',
+        help='Toggle time logging to default file.'
+    )
+    decorator_group.add_argument(
+        '-f', '--logfile', required=False, dest='logfile',
+        help='Specify file path to log file.'
+    )
+    decorator_group1.add_argument(
+        '-t', '--timefile', required=False, dest='timefile',
+        help='Specify file path for time log file.'
+    )
+
     args = parser.parse_args()
     if args.name:
         results = myScrape.search_playerby_name(args.name)
@@ -475,5 +481,19 @@ if __name__ == '__main__':
             temp_export = results
             export_file(args.export)
     elif args.env:
+        if args.timelog:  
+            project_globals.toggle_timer = True
+        if args.log:
+            project_globals.toggle_log = True
+        if args.defcalllog:
+            project_globals.do_log = True
+        if args.logfile:
+            project_globals.do_log = True
+            project_globals.logpath = args.logfile
+        if args.deftimelog:
+            project_globals.log_time = True
+        if args.timefile:
+            project_globals.log_time = True
+            project_globals.logpath_time = args.timefile
         app = create_app(args.env)
         app.run()

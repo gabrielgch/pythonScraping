@@ -1,5 +1,7 @@
 import functools
 import logging
+toggle_decorators = False
+logpath = './LogDetails/Logs.txt'
  
 #Creates a logging object and returns it 
 def create_logger():
@@ -8,7 +10,7 @@ def create_logger():
     logger.setLevel(logging.INFO)
  
     # create the logging file handler
-    fh = logging.FileHandler('./LogDetails/Logs.txt')
+    fh = logging.FileHandler(logpath)
  
     fmt = '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
     formatter = logging.Formatter(fmt)
@@ -24,6 +26,8 @@ def exception(function):
     A decorator that wraps the passed in function and logs 
     exceptions should one occur.
     """
+    if not toggle_decorators:
+        return function
     @functools.wraps(function)
     def wrapper(*args, **kwargs):
         logger = create_logger()

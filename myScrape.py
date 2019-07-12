@@ -1,16 +1,15 @@
 import string
 import re
 import time
+import os
 import functools
-from timer import timeit
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
-from exception_decorator import exception
+from control_decorators import time_it
+import project_globals
 
 URL_BASE = 'https://www.basketball-reference.com'
 
-@timeit
-@exception
 def get_player_image(player_detail_link):
     """Obtains the image url for the player.
 
@@ -32,8 +31,7 @@ def get_player_image(player_detail_link):
     
     return img
 
-@timeit
-@exception
+@time_it
 def scrape_players_data(list_letters, lim=10):
     """Scrapess for players whose first name starts with parameter.
 
@@ -78,8 +76,7 @@ def scrape_players_data(list_letters, lim=10):
             break
     return players_list
 
-@timeit
-@exception
+@time_it
 def search_playerby_name(name_search):
     """Scrapes for players by first name.
 
