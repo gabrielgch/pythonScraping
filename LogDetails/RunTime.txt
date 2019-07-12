@@ -1,2 +1,5 @@
 Function scrape_players_data took 174.36590147018433s
 Function scrape_players_data took 156.36709451675415s
+Function scrape_players_data took 198.32610845565796s
+Function scrape_players_data took 178.25357174873352s
+Function scrape_players_data took 223.86541771888733s

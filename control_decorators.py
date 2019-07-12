@@ -30,10 +30,8 @@ def time_it(fn):
 
 def log_calls(fn):
     """Logs calls to webapp."""
-    print("IS CALLING")
     @functools.wraps(fn)
     def inn(*args, **kwargs):
-        print(">>"+str(project_globals.toggle_log))
         if project_globals.toggle_log:
             today_time = datetime.datetime.now()
             res = fn(*args,**kwargs)

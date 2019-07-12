@@ -57,14 +57,13 @@ def create_app(env='dev'):
             self.detail_link = detail_link
             self.img_link = img_link
 
-    @log_calls
     @app.route('/', methods=['GET','POST'])
     def home():
         """Displays the landing (index) page."""
         return render_template('index.html')
 
-    @log_calls
     @app.route('/export<frmt_export>/<caller>', methods=['GET', 'POST'])
+    @log_calls
     def export(frmt_export, caller):
         """Export data to a file in JSON or CSV.
 
@@ -94,8 +93,8 @@ def create_app(env='dev'):
             all_players_list=[], result_size=len([]),
             err_msg=err_msg)
 
-    @log_calls
     @app.route('/scrape/<action>', methods=['GET', 'POST'])
+    @log_calls
     def scrape(action):
         """Handles scrape requests by the user.
 
@@ -198,8 +197,8 @@ def create_app(env='dev'):
                     ' must be decimal values...update aborted'
         return err_msg
 
-    @log_calls
     @app.route('/delete_entry<player_id>')
+    @log_calls
     def delete_entry(player_id):
         """Deletes a player entry in Flask-sqlAlchemy db.
 
@@ -215,8 +214,8 @@ def create_app(env='dev'):
             db.session.commit()
         return render_template('database.html', action='start')
 
-    @log_calls
     @app.route('/profile', methods=['GET', 'POST'])
+    @log_calls
     def profile():
         """Renders player view from scrape data."""
         if request.form:
@@ -226,8 +225,8 @@ def create_app(env='dev'):
                 'profile.html', action='display',
                 player=player_data)
 
-    @log_calls
     @app.route('/update', methods=['GET', 'POST'])
+    @log_calls
     def update_entry():
         """Performs an update to a single Player row.
 
@@ -263,8 +262,8 @@ def create_app(env='dev'):
             action='start',
             err_msg=err_msg)
 
-    @log_calls
     @app.route('/entry_find<player_id>')
+    @log_calls
     def get_data_update(player_id):
         """Finds player data to display in update page
 
@@ -286,8 +285,8 @@ def create_app(env='dev'):
             del x['_sa_instance_state']
         return d
 
-    @log_calls
     @app.route('/search_all')
+    @log_calls
     def search_all():
         """Obtain all Player values from database."""
         global temp_export
@@ -494,6 +493,7 @@ if __name__ == '__main__':
             project_globals.log_time = True
         if args.timefile:
             project_globals.log_time = True
-            project_globals.logpath_time = args.timefile
+            project_globals.time_logfile = args.timefile
+            print(project_globals.time_logfile)
         app = create_app(args.env)
         app.run()
