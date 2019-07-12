@@ -8914,3 +8914,2651 @@ NoneType: None
 NoneType: None
 2019-07-09 21:41:34,908 - Time Logger - ERROR - 'export_file'  4.05 ms
 NoneType: None
+2019-07-12 16:19:43,046 - Time Logger - ERROR - 'get_player_image'  3365.84 ms
+NoneType: None
+2019-07-12 16:19:43,046 - Time Logger - ERROR - 'get_player_image'  3365.84 ms
+NoneType: None
+2019-07-12 16:19:46,248 - Time Logger - ERROR - 'get_player_image'  3200.44 ms
+NoneType: None
+2019-07-12 16:19:46,248 - Time Logger - ERROR - 'get_player_image'  3200.44 ms
+NoneType: None
+2019-07-12 16:19:46,248 - Time Logger - ERROR - 'get_player_image'  3200.44 ms
+NoneType: None
+2019-07-12 16:19:51,139 - Time Logger - ERROR - 'get_player_image'  4888.98 ms
+NoneType: None
+2019-07-12 16:19:51,139 - Time Logger - ERROR - 'get_player_image'  4888.98 ms
+NoneType: None
+2019-07-12 16:19:51,139 - Time Logger - ERROR - 'get_player_image'  4888.98 ms
+NoneType: None
+2019-07-12 16:19:51,139 - Time Logger - ERROR - 'get_player_image'  4888.98 ms
+NoneType: None
+2019-07-12 16:19:54,314 - Time Logger - ERROR - 'get_player_image'  3173.33 ms
+NoneType: None
+2019-07-12 16:19:54,314 - Time Logger - ERROR - 'get_player_image'  3173.33 ms
+NoneType: None
+2019-07-12 16:19:54,314 - Time Logger - ERROR - 'get_player_image'  3173.33 ms
+NoneType: None
+2019-07-12 16:19:54,314 - Time Logger - ERROR - 'get_player_image'  3173.33 ms
+NoneType: None
+2019-07-12 16:19:54,314 - Time Logger - ERROR - 'get_player_image'  3173.33 ms
+NoneType: None
+2019-07-12 16:19:57,881 - Time Logger - ERROR - 'get_player_image'  3566.58 ms
+NoneType: None
+2019-07-12 16:19:57,881 - Time Logger - ERROR - 'get_player_image'  3566.58 ms
+NoneType: None
+2019-07-12 16:19:57,881 - Time Logger - ERROR - 'get_player_image'  3566.58 ms
+NoneType: None
+2019-07-12 16:19:57,881 - Time Logger - ERROR - 'get_player_image'  3566.58 ms
+NoneType: None
+2019-07-12 16:19:57,881 - Time Logger - ERROR - 'get_player_image'  3566.58 ms
+NoneType: None
+2019-07-12 16:19:57,881 - Time Logger - ERROR - 'get_player_image'  3566.58 ms
+NoneType: None
+2019-07-12 16:20:01,652 - Time Logger - ERROR - 'get_player_image'  3769.93 ms
+NoneType: None
+2019-07-12 16:20:01,652 - Time Logger - ERROR - 'get_player_image'  3769.93 ms
+NoneType: None
+2019-07-12 16:20:01,652 - Time Logger - ERROR - 'get_player_image'  3769.93 ms
+NoneType: None
+2019-07-12 16:20:01,652 - Time Logger - ERROR - 'get_player_image'  3769.93 ms
+NoneType: None
+2019-07-12 16:20:01,652 - Time Logger - ERROR - 'get_player_image'  3769.93 ms
+NoneType: None
+2019-07-12 16:20:01,652 - Time Logger - ERROR - 'get_player_image'  3769.93 ms
+NoneType: None
+2019-07-12 16:20:01,652 - Time Logger - ERROR - 'get_player_image'  3769.93 ms
+NoneType: None
+2019-07-12 16:20:04,403 - Time Logger - ERROR - 'get_player_image'  2749.34 ms
+NoneType: None
+2019-07-12 16:20:04,403 - Time Logger - ERROR - 'get_player_image'  2749.34 ms
+NoneType: None
+2019-07-12 16:20:04,403 - Time Logger - ERROR - 'get_player_image'  2749.34 ms
+NoneType: None
+2019-07-12 16:20:04,403 - Time Logger - ERROR - 'get_player_image'  2749.34 ms
+NoneType: None
+2019-07-12 16:20:04,403 - Time Logger - ERROR - 'get_player_image'  2749.34 ms
+NoneType: None
+2019-07-12 16:20:04,403 - Time Logger - ERROR - 'get_player_image'  2749.34 ms
+NoneType: None
+2019-07-12 16:20:04,403 - Time Logger - ERROR - 'get_player_image'  2749.34 ms
+NoneType: None
+2019-07-12 16:20:04,403 - Time Logger - ERROR - 'get_player_image'  2749.34 ms
+NoneType: None
+2019-07-12 16:20:05,972 - Time Logger - ERROR - 'get_player_image'  1567.73 ms
+NoneType: None
+2019-07-12 16:20:05,972 - Time Logger - ERROR - 'get_player_image'  1567.73 ms
+NoneType: None
+2019-07-12 16:20:05,972 - Time Logger - ERROR - 'get_player_image'  1567.73 ms
+NoneType: None
+2019-07-12 16:20:05,972 - Time Logger - ERROR - 'get_player_image'  1567.73 ms
+NoneType: None
+2019-07-12 16:20:05,972 - Time Logger - ERROR - 'get_player_image'  1567.73 ms
+NoneType: None
+2019-07-12 16:20:05,972 - Time Logger - ERROR - 'get_player_image'  1567.73 ms
+NoneType: None
+2019-07-12 16:20:05,972 - Time Logger - ERROR - 'get_player_image'  1567.73 ms
+NoneType: None
+2019-07-12 16:20:05,972 - Time Logger - ERROR - 'get_player_image'  1567.73 ms
+NoneType: None
+2019-07-12 16:20:05,972 - Time Logger - ERROR - 'get_player_image'  1567.73 ms
+NoneType: None
+2019-07-12 16:20:08,542 - Time Logger - ERROR - 'get_player_image'  2567.95 ms
+NoneType: None
+2019-07-12 16:20:08,542 - Time Logger - ERROR - 'get_player_image'  2567.95 ms
+NoneType: None
+2019-07-12 16:20:08,542 - Time Logger - ERROR - 'get_player_image'  2567.95 ms
+NoneType: None
+2019-07-12 16:20:08,542 - Time Logger - ERROR - 'get_player_image'  2567.95 ms
+NoneType: None
+2019-07-12 16:20:08,542 - Time Logger - ERROR - 'get_player_image'  2567.95 ms
+NoneType: None
+2019-07-12 16:20:08,542 - Time Logger - ERROR - 'get_player_image'  2567.95 ms
+NoneType: None
+2019-07-12 16:20:08,542 - Time Logger - ERROR - 'get_player_image'  2567.95 ms
+NoneType: None
+2019-07-12 16:20:08,542 - Time Logger - ERROR - 'get_player_image'  2567.95 ms
+NoneType: None
+2019-07-12 16:20:08,542 - Time Logger - ERROR - 'get_player_image'  2567.95 ms
+NoneType: None
+2019-07-12 16:20:08,542 - Time Logger - ERROR - 'get_player_image'  2567.95 ms
+NoneType: None
+2019-07-12 16:20:10,828 - Time Logger - ERROR - 'get_player_image'  2284.15 ms
+NoneType: None
+2019-07-12 16:20:10,828 - Time Logger - ERROR - 'get_player_image'  2284.15 ms
+NoneType: None
+2019-07-12 16:20:10,828 - Time Logger - ERROR - 'get_player_image'  2284.15 ms
+NoneType: None
+2019-07-12 16:20:10,828 - Time Logger - ERROR - 'get_player_image'  2284.15 ms
+NoneType: None
+2019-07-12 16:20:10,828 - Time Logger - ERROR - 'get_player_image'  2284.15 ms
+NoneType: None
+2019-07-12 16:20:10,828 - Time Logger - ERROR - 'get_player_image'  2284.15 ms
+NoneType: None
+2019-07-12 16:20:10,828 - Time Logger - ERROR - 'get_player_image'  2284.15 ms
+NoneType: None
+2019-07-12 16:20:10,828 - Time Logger - ERROR - 'get_player_image'  2284.15 ms
+NoneType: None
+2019-07-12 16:20:10,828 - Time Logger - ERROR - 'get_player_image'  2284.15 ms
+NoneType: None
+2019-07-12 16:20:10,828 - Time Logger - ERROR - 'get_player_image'  2284.15 ms
+NoneType: None
+2019-07-12 16:20:10,828 - Time Logger - ERROR - 'get_player_image'  2284.15 ms
+NoneType: None
+2019-07-12 16:20:13,066 - Time Logger - ERROR - 'get_player_image'  2235.53 ms
+NoneType: None
+2019-07-12 16:20:13,066 - Time Logger - ERROR - 'get_player_image'  2235.53 ms
+NoneType: None
+2019-07-12 16:20:13,066 - Time Logger - ERROR - 'get_player_image'  2235.53 ms
+NoneType: None
+2019-07-12 16:20:13,066 - Time Logger - ERROR - 'get_player_image'  2235.53 ms
+NoneType: None
+2019-07-12 16:20:13,066 - Time Logger - ERROR - 'get_player_image'  2235.53 ms
+NoneType: None
+2019-07-12 16:20:13,066 - Time Logger - ERROR - 'get_player_image'  2235.53 ms
+NoneType: None
+2019-07-12 16:20:13,066 - Time Logger - ERROR - 'get_player_image'  2235.53 ms
+NoneType: None
+2019-07-12 16:20:13,066 - Time Logger - ERROR - 'get_player_image'  2235.53 ms
+NoneType: None
+2019-07-12 16:20:13,066 - Time Logger - ERROR - 'get_player_image'  2235.53 ms
+NoneType: None
+2019-07-12 16:20:13,066 - Time Logger - ERROR - 'get_player_image'  2235.53 ms
+NoneType: None
+2019-07-12 16:20:13,066 - Time Logger - ERROR - 'get_player_image'  2235.53 ms
+NoneType: None
+2019-07-12 16:20:13,066 - Time Logger - ERROR - 'get_player_image'  2235.53 ms
+NoneType: None
+2019-07-12 16:20:16,475 - Time Logger - ERROR - 'get_player_image'  3406.47 ms
+NoneType: None
+2019-07-12 16:20:16,475 - Time Logger - ERROR - 'get_player_image'  3406.47 ms
+NoneType: None
+2019-07-12 16:20:16,475 - Time Logger - ERROR - 'get_player_image'  3406.47 ms
+NoneType: None
+2019-07-12 16:20:16,475 - Time Logger - ERROR - 'get_player_image'  3406.47 ms
+NoneType: None
+2019-07-12 16:20:16,475 - Time Logger - ERROR - 'get_player_image'  3406.47 ms
+NoneType: None
+2019-07-12 16:20:16,475 - Time Logger - ERROR - 'get_player_image'  3406.47 ms
+NoneType: None
+2019-07-12 16:20:16,475 - Time Logger - ERROR - 'get_player_image'  3406.47 ms
+NoneType: None
+2019-07-12 16:20:16,475 - Time Logger - ERROR - 'get_player_image'  3406.47 ms
+NoneType: None
+2019-07-12 16:20:16,475 - Time Logger - ERROR - 'get_player_image'  3406.47 ms
+NoneType: None
+2019-07-12 16:20:16,475 - Time Logger - ERROR - 'get_player_image'  3406.47 ms
+NoneType: None
+2019-07-12 16:20:16,475 - Time Logger - ERROR - 'get_player_image'  3406.47 ms
+NoneType: None
+2019-07-12 16:20:16,475 - Time Logger - ERROR - 'get_player_image'  3406.47 ms
+NoneType: None
+2019-07-12 16:20:16,475 - Time Logger - ERROR - 'get_player_image'  3406.47 ms
+NoneType: None
+2019-07-12 16:20:18,252 - Time Logger - ERROR - 'get_player_image'  1773.73 ms
+NoneType: None
+2019-07-12 16:20:18,252 - Time Logger - ERROR - 'get_player_image'  1773.73 ms
+NoneType: None
+2019-07-12 16:20:18,252 - Time Logger - ERROR - 'get_player_image'  1773.73 ms
+NoneType: None
+2019-07-12 16:20:18,252 - Time Logger - ERROR - 'get_player_image'  1773.73 ms
+NoneType: None
+2019-07-12 16:20:18,252 - Time Logger - ERROR - 'get_player_image'  1773.73 ms
+NoneType: None
+2019-07-12 16:20:18,252 - Time Logger - ERROR - 'get_player_image'  1773.73 ms
+NoneType: None
+2019-07-12 16:20:18,252 - Time Logger - ERROR - 'get_player_image'  1773.73 ms
+NoneType: None
+2019-07-12 16:20:18,252 - Time Logger - ERROR - 'get_player_image'  1773.73 ms
+NoneType: None
+2019-07-12 16:20:18,252 - Time Logger - ERROR - 'get_player_image'  1773.73 ms
+NoneType: None
+2019-07-12 16:20:18,252 - Time Logger - ERROR - 'get_player_image'  1773.73 ms
+NoneType: None
+2019-07-12 16:20:18,252 - Time Logger - ERROR - 'get_player_image'  1773.73 ms
+NoneType: None
+2019-07-12 16:20:18,252 - Time Logger - ERROR - 'get_player_image'  1773.73 ms
+NoneType: None
+2019-07-12 16:20:18,252 - Time Logger - ERROR - 'get_player_image'  1773.73 ms
+NoneType: None
+2019-07-12 16:20:18,252 - Time Logger - ERROR - 'get_player_image'  1773.73 ms
+NoneType: None
+2019-07-12 16:20:21,922 - Time Logger - ERROR - 'get_player_image'  3668.32 ms
+NoneType: None
+2019-07-12 16:20:21,922 - Time Logger - ERROR - 'get_player_image'  3668.32 ms
+NoneType: None
+2019-07-12 16:20:21,922 - Time Logger - ERROR - 'get_player_image'  3668.32 ms
+NoneType: None
+2019-07-12 16:20:21,922 - Time Logger - ERROR - 'get_player_image'  3668.32 ms
+NoneType: None
+2019-07-12 16:20:21,922 - Time Logger - ERROR - 'get_player_image'  3668.32 ms
+NoneType: None
+2019-07-12 16:20:21,922 - Time Logger - ERROR - 'get_player_image'  3668.32 ms
+NoneType: None
+2019-07-12 16:20:21,922 - Time Logger - ERROR - 'get_player_image'  3668.32 ms
+NoneType: None
+2019-07-12 16:20:21,922 - Time Logger - ERROR - 'get_player_image'  3668.32 ms
+NoneType: None
+2019-07-12 16:20:21,922 - Time Logger - ERROR - 'get_player_image'  3668.32 ms
+NoneType: None
+2019-07-12 16:20:21,922 - Time Logger - ERROR - 'get_player_image'  3668.32 ms
+NoneType: None
+2019-07-12 16:20:21,922 - Time Logger - ERROR - 'get_player_image'  3668.32 ms
+NoneType: None
+2019-07-12 16:20:21,922 - Time Logger - ERROR - 'get_player_image'  3668.32 ms
+NoneType: None
+2019-07-12 16:20:21,922 - Time Logger - ERROR - 'get_player_image'  3668.32 ms
+NoneType: None
+2019-07-12 16:20:21,922 - Time Logger - ERROR - 'get_player_image'  3668.32 ms
+NoneType: None
+2019-07-12 16:20:21,922 - Time Logger - ERROR - 'get_player_image'  3668.32 ms
+NoneType: None
+2019-07-12 16:20:25,800 - Time Logger - ERROR - 'get_player_image'  3875.49 ms
+NoneType: None
+2019-07-12 16:20:25,800 - Time Logger - ERROR - 'get_player_image'  3875.49 ms
+NoneType: None
+2019-07-12 16:20:25,800 - Time Logger - ERROR - 'get_player_image'  3875.49 ms
+NoneType: None
+2019-07-12 16:20:25,800 - Time Logger - ERROR - 'get_player_image'  3875.49 ms
+NoneType: None
+2019-07-12 16:20:25,800 - Time Logger - ERROR - 'get_player_image'  3875.49 ms
+NoneType: None
+2019-07-12 16:20:25,800 - Time Logger - ERROR - 'get_player_image'  3875.49 ms
+NoneType: None
+2019-07-12 16:20:25,800 - Time Logger - ERROR - 'get_player_image'  3875.49 ms
+NoneType: None
+2019-07-12 16:20:25,800 - Time Logger - ERROR - 'get_player_image'  3875.49 ms
+NoneType: None
+2019-07-12 16:20:25,800 - Time Logger - ERROR - 'get_player_image'  3875.49 ms
+NoneType: None
+2019-07-12 16:20:25,800 - Time Logger - ERROR - 'get_player_image'  3875.49 ms
+NoneType: None
+2019-07-12 16:20:25,800 - Time Logger - ERROR - 'get_player_image'  3875.49 ms
+NoneType: None
+2019-07-12 16:20:25,800 - Time Logger - ERROR - 'get_player_image'  3875.49 ms
+NoneType: None
+2019-07-12 16:20:25,800 - Time Logger - ERROR - 'get_player_image'  3875.49 ms
+NoneType: None
+2019-07-12 16:20:25,800 - Time Logger - ERROR - 'get_player_image'  3875.49 ms
+NoneType: None
+2019-07-12 16:20:25,800 - Time Logger - ERROR - 'get_player_image'  3875.49 ms
+NoneType: None
+2019-07-12 16:20:25,800 - Time Logger - ERROR - 'get_player_image'  3875.49 ms
+NoneType: None
+2019-07-12 16:20:30,491 - Time Logger - ERROR - 'get_player_image'  4689.35 ms
+NoneType: None
+2019-07-12 16:20:30,491 - Time Logger - ERROR - 'get_player_image'  4689.35 ms
+NoneType: None
+2019-07-12 16:20:30,491 - Time Logger - ERROR - 'get_player_image'  4689.35 ms
+NoneType: None
+2019-07-12 16:20:30,491 - Time Logger - ERROR - 'get_player_image'  4689.35 ms
+NoneType: None
+2019-07-12 16:20:30,491 - Time Logger - ERROR - 'get_player_image'  4689.35 ms
+NoneType: None
+2019-07-12 16:20:30,491 - Time Logger - ERROR - 'get_player_image'  4689.35 ms
+NoneType: None
+2019-07-12 16:20:30,491 - Time Logger - ERROR - 'get_player_image'  4689.35 ms
+NoneType: None
+2019-07-12 16:20:30,491 - Time Logger - ERROR - 'get_player_image'  4689.35 ms
+NoneType: None
+2019-07-12 16:20:30,491 - Time Logger - ERROR - 'get_player_image'  4689.35 ms
+NoneType: None
+2019-07-12 16:20:30,491 - Time Logger - ERROR - 'get_player_image'  4689.35 ms
+NoneType: None
+2019-07-12 16:20:30,491 - Time Logger - ERROR - 'get_player_image'  4689.35 ms
+NoneType: None
+2019-07-12 16:20:30,491 - Time Logger - ERROR - 'get_player_image'  4689.35 ms
+NoneType: None
+2019-07-12 16:20:30,491 - Time Logger - ERROR - 'get_player_image'  4689.35 ms
+NoneType: None
+2019-07-12 16:20:30,491 - Time Logger - ERROR - 'get_player_image'  4689.35 ms
+NoneType: None
+2019-07-12 16:20:30,491 - Time Logger - ERROR - 'get_player_image'  4689.35 ms
+NoneType: None
+2019-07-12 16:20:30,491 - Time Logger - ERROR - 'get_player_image'  4689.35 ms
+NoneType: None
+2019-07-12 16:20:30,491 - Time Logger - ERROR - 'get_player_image'  4689.35 ms
+NoneType: None
+2019-07-12 16:20:33,147 - Time Logger - ERROR - 'get_player_image'  2653.99 ms
+NoneType: None
+2019-07-12 16:20:33,147 - Time Logger - ERROR - 'get_player_image'  2653.99 ms
+NoneType: None
+2019-07-12 16:20:33,147 - Time Logger - ERROR - 'get_player_image'  2653.99 ms
+NoneType: None
+2019-07-12 16:20:33,147 - Time Logger - ERROR - 'get_player_image'  2653.99 ms
+NoneType: None
+2019-07-12 16:20:33,147 - Time Logger - ERROR - 'get_player_image'  2653.99 ms
+NoneType: None
+2019-07-12 16:20:33,147 - Time Logger - ERROR - 'get_player_image'  2653.99 ms
+NoneType: None
+2019-07-12 16:20:33,147 - Time Logger - ERROR - 'get_player_image'  2653.99 ms
+NoneType: None
+2019-07-12 16:20:33,147 - Time Logger - ERROR - 'get_player_image'  2653.99 ms
+NoneType: None
+2019-07-12 16:20:33,147 - Time Logger - ERROR - 'get_player_image'  2653.99 ms
+NoneType: None
+2019-07-12 16:20:33,147 - Time Logger - ERROR - 'get_player_image'  2653.99 ms
+NoneType: None
+2019-07-12 16:20:33,147 - Time Logger - ERROR - 'get_player_image'  2653.99 ms
+NoneType: None
+2019-07-12 16:20:33,147 - Time Logger - ERROR - 'get_player_image'  2653.99 ms
+NoneType: None
+2019-07-12 16:20:33,147 - Time Logger - ERROR - 'get_player_image'  2653.99 ms
+NoneType: None
+2019-07-12 16:20:33,147 - Time Logger - ERROR - 'get_player_image'  2653.99 ms
+NoneType: None
+2019-07-12 16:20:33,147 - Time Logger - ERROR - 'get_player_image'  2653.99 ms
+NoneType: None
+2019-07-12 16:20:33,147 - Time Logger - ERROR - 'get_player_image'  2653.99 ms
+NoneType: None
+2019-07-12 16:20:33,147 - Time Logger - ERROR - 'get_player_image'  2653.99 ms
+NoneType: None
+2019-07-12 16:20:33,147 - Time Logger - ERROR - 'get_player_image'  2653.99 ms
+NoneType: None
+2019-07-12 16:20:36,612 - Time Logger - ERROR - 'get_player_image'  3462.80 ms
+NoneType: None
+2019-07-12 16:20:36,612 - Time Logger - ERROR - 'get_player_image'  3462.80 ms
+NoneType: None
+2019-07-12 16:20:36,612 - Time Logger - ERROR - 'get_player_image'  3462.80 ms
+NoneType: None
+2019-07-12 16:20:36,612 - Time Logger - ERROR - 'get_player_image'  3462.80 ms
+NoneType: None
+2019-07-12 16:20:36,612 - Time Logger - ERROR - 'get_player_image'  3462.80 ms
+NoneType: None
+2019-07-12 16:20:36,612 - Time Logger - ERROR - 'get_player_image'  3462.80 ms
+NoneType: None
+2019-07-12 16:20:36,612 - Time Logger - ERROR - 'get_player_image'  3462.80 ms
+NoneType: None
+2019-07-12 16:20:36,612 - Time Logger - ERROR - 'get_player_image'  3462.80 ms
+NoneType: None
+2019-07-12 16:20:36,612 - Time Logger - ERROR - 'get_player_image'  3462.80 ms
+NoneType: None
+2019-07-12 16:20:36,612 - Time Logger - ERROR - 'get_player_image'  3462.80 ms
+NoneType: None
+2019-07-12 16:20:36,612 - Time Logger - ERROR - 'get_player_image'  3462.80 ms
+NoneType: None
+2019-07-12 16:20:36,612 - Time Logger - ERROR - 'get_player_image'  3462.80 ms
+NoneType: None
+2019-07-12 16:20:36,612 - Time Logger - ERROR - 'get_player_image'  3462.80 ms
+NoneType: None
+2019-07-12 16:20:36,612 - Time Logger - ERROR - 'get_player_image'  3462.80 ms
+NoneType: None
+2019-07-12 16:20:36,612 - Time Logger - ERROR - 'get_player_image'  3462.80 ms
+NoneType: None
+2019-07-12 16:20:36,612 - Time Logger - ERROR - 'get_player_image'  3462.80 ms
+NoneType: None
+2019-07-12 16:20:36,612 - Time Logger - ERROR - 'get_player_image'  3462.80 ms
+NoneType: None
+2019-07-12 16:20:36,612 - Time Logger - ERROR - 'get_player_image'  3462.80 ms
+NoneType: None
+2019-07-12 16:20:36,612 - Time Logger - ERROR - 'get_player_image'  3462.80 ms
+NoneType: None
+2019-07-12 16:20:39,223 - Time Logger - ERROR - 'get_player_image'  2609.94 ms
+NoneType: None
+2019-07-12 16:20:39,223 - Time Logger - ERROR - 'get_player_image'  2609.94 ms
+NoneType: None
+2019-07-12 16:20:39,223 - Time Logger - ERROR - 'get_player_image'  2609.94 ms
+NoneType: None
+2019-07-12 16:20:39,223 - Time Logger - ERROR - 'get_player_image'  2609.94 ms
+NoneType: None
+2019-07-12 16:20:39,223 - Time Logger - ERROR - 'get_player_image'  2609.94 ms
+NoneType: None
+2019-07-12 16:20:39,223 - Time Logger - ERROR - 'get_player_image'  2609.94 ms
+NoneType: None
+2019-07-12 16:20:39,223 - Time Logger - ERROR - 'get_player_image'  2609.94 ms
+NoneType: None
+2019-07-12 16:20:39,223 - Time Logger - ERROR - 'get_player_image'  2609.94 ms
+NoneType: None
+2019-07-12 16:20:39,223 - Time Logger - ERROR - 'get_player_image'  2609.94 ms
+NoneType: None
+2019-07-12 16:20:39,223 - Time Logger - ERROR - 'get_player_image'  2609.94 ms
+NoneType: None
+2019-07-12 16:20:39,223 - Time Logger - ERROR - 'get_player_image'  2609.94 ms
+NoneType: None
+2019-07-12 16:20:39,223 - Time Logger - ERROR - 'get_player_image'  2609.94 ms
+NoneType: None
+2019-07-12 16:20:39,223 - Time Logger - ERROR - 'get_player_image'  2609.94 ms
+NoneType: None
+2019-07-12 16:20:39,223 - Time Logger - ERROR - 'get_player_image'  2609.94 ms
+NoneType: None
+2019-07-12 16:20:39,223 - Time Logger - ERROR - 'get_player_image'  2609.94 ms
+NoneType: None
+2019-07-12 16:20:39,223 - Time Logger - ERROR - 'get_player_image'  2609.94 ms
+NoneType: None
+2019-07-12 16:20:39,223 - Time Logger - ERROR - 'get_player_image'  2609.94 ms
+NoneType: None
+2019-07-12 16:20:39,223 - Time Logger - ERROR - 'get_player_image'  2609.94 ms
+NoneType: None
+2019-07-12 16:20:39,223 - Time Logger - ERROR - 'get_player_image'  2609.94 ms
+NoneType: None
+2019-07-12 16:20:39,223 - Time Logger - ERROR - 'get_player_image'  2609.94 ms
+NoneType: None
+2019-07-12 16:20:42,462 - Time Logger - ERROR - 'get_player_image'  3237.64 ms
+NoneType: None
+2019-07-12 16:20:42,462 - Time Logger - ERROR - 'get_player_image'  3237.64 ms
+NoneType: None
+2019-07-12 16:20:42,462 - Time Logger - ERROR - 'get_player_image'  3237.64 ms
+NoneType: None
+2019-07-12 16:20:42,462 - Time Logger - ERROR - 'get_player_image'  3237.64 ms
+NoneType: None
+2019-07-12 16:20:42,462 - Time Logger - ERROR - 'get_player_image'  3237.64 ms
+NoneType: None
+2019-07-12 16:20:42,462 - Time Logger - ERROR - 'get_player_image'  3237.64 ms
+NoneType: None
+2019-07-12 16:20:42,462 - Time Logger - ERROR - 'get_player_image'  3237.64 ms
+NoneType: None
+2019-07-12 16:20:42,462 - Time Logger - ERROR - 'get_player_image'  3237.64 ms
+NoneType: None
+2019-07-12 16:20:42,462 - Time Logger - ERROR - 'get_player_image'  3237.64 ms
+NoneType: None
+2019-07-12 16:20:42,462 - Time Logger - ERROR - 'get_player_image'  3237.64 ms
+NoneType: None
+2019-07-12 16:20:42,462 - Time Logger - ERROR - 'get_player_image'  3237.64 ms
+NoneType: None
+2019-07-12 16:20:42,462 - Time Logger - ERROR - 'get_player_image'  3237.64 ms
+NoneType: None
+2019-07-12 16:20:42,462 - Time Logger - ERROR - 'get_player_image'  3237.64 ms
+NoneType: None
+2019-07-12 16:20:42,462 - Time Logger - ERROR - 'get_player_image'  3237.64 ms
+NoneType: None
+2019-07-12 16:20:42,462 - Time Logger - ERROR - 'get_player_image'  3237.64 ms
+NoneType: None
+2019-07-12 16:20:42,462 - Time Logger - ERROR - 'get_player_image'  3237.64 ms
+NoneType: None
+2019-07-12 16:20:42,462 - Time Logger - ERROR - 'get_player_image'  3237.64 ms
+NoneType: None
+2019-07-12 16:20:42,462 - Time Logger - ERROR - 'get_player_image'  3237.64 ms
+NoneType: None
+2019-07-12 16:20:42,462 - Time Logger - ERROR - 'get_player_image'  3237.64 ms
+NoneType: None
+2019-07-12 16:20:42,462 - Time Logger - ERROR - 'get_player_image'  3237.64 ms
+NoneType: None
+2019-07-12 16:20:42,462 - Time Logger - ERROR - 'get_player_image'  3237.64 ms
+NoneType: None
+2019-07-12 16:20:46,251 - Time Logger - ERROR - 'get_player_image'  3786.12 ms
+NoneType: None
+2019-07-12 16:20:46,251 - Time Logger - ERROR - 'get_player_image'  3786.12 ms
+NoneType: None
+2019-07-12 16:20:46,251 - Time Logger - ERROR - 'get_player_image'  3786.12 ms
+NoneType: None
+2019-07-12 16:20:46,251 - Time Logger - ERROR - 'get_player_image'  3786.12 ms
+NoneType: None
+2019-07-12 16:20:46,251 - Time Logger - ERROR - 'get_player_image'  3786.12 ms
+NoneType: None
+2019-07-12 16:20:46,251 - Time Logger - ERROR - 'get_player_image'  3786.12 ms
+NoneType: None
+2019-07-12 16:20:46,251 - Time Logger - ERROR - 'get_player_image'  3786.12 ms
+NoneType: None
+2019-07-12 16:20:46,251 - Time Logger - ERROR - 'get_player_image'  3786.12 ms
+NoneType: None
+2019-07-12 16:20:46,251 - Time Logger - ERROR - 'get_player_image'  3786.12 ms
+NoneType: None
+2019-07-12 16:20:46,251 - Time Logger - ERROR - 'get_player_image'  3786.12 ms
+NoneType: None
+2019-07-12 16:20:46,251 - Time Logger - ERROR - 'get_player_image'  3786.12 ms
+NoneType: None
+2019-07-12 16:20:46,251 - Time Logger - ERROR - 'get_player_image'  3786.12 ms
+NoneType: None
+2019-07-12 16:20:46,251 - Time Logger - ERROR - 'get_player_image'  3786.12 ms
+NoneType: None
+2019-07-12 16:20:46,251 - Time Logger - ERROR - 'get_player_image'  3786.12 ms
+NoneType: None
+2019-07-12 16:20:46,251 - Time Logger - ERROR - 'get_player_image'  3786.12 ms
+NoneType: None
+2019-07-12 16:20:46,251 - Time Logger - ERROR - 'get_player_image'  3786.12 ms
+NoneType: None
+2019-07-12 16:20:46,251 - Time Logger - ERROR - 'get_player_image'  3786.12 ms
+NoneType: None
+2019-07-12 16:20:46,251 - Time Logger - ERROR - 'get_player_image'  3786.12 ms
+NoneType: None
+2019-07-12 16:20:46,251 - Time Logger - ERROR - 'get_player_image'  3786.12 ms
+NoneType: None
+2019-07-12 16:20:46,251 - Time Logger - ERROR - 'get_player_image'  3786.12 ms
+NoneType: None
+2019-07-12 16:20:46,251 - Time Logger - ERROR - 'get_player_image'  3786.12 ms
+NoneType: None
+2019-07-12 16:20:46,251 - Time Logger - ERROR - 'get_player_image'  3786.12 ms
+NoneType: None
+2019-07-12 16:20:50,441 - Time Logger - ERROR - 'get_player_image'  4186.00 ms
+NoneType: None
+2019-07-12 16:20:50,441 - Time Logger - ERROR - 'get_player_image'  4186.00 ms
+NoneType: None
+2019-07-12 16:20:50,441 - Time Logger - ERROR - 'get_player_image'  4186.00 ms
+NoneType: None
+2019-07-12 16:20:50,441 - Time Logger - ERROR - 'get_player_image'  4186.00 ms
+NoneType: None
+2019-07-12 16:20:50,441 - Time Logger - ERROR - 'get_player_image'  4186.00 ms
+NoneType: None
+2019-07-12 16:20:50,441 - Time Logger - ERROR - 'get_player_image'  4186.00 ms
+NoneType: None
+2019-07-12 16:20:50,441 - Time Logger - ERROR - 'get_player_image'  4186.00 ms
+NoneType: None
+2019-07-12 16:20:50,441 - Time Logger - ERROR - 'get_player_image'  4186.00 ms
+NoneType: None
+2019-07-12 16:20:50,441 - Time Logger - ERROR - 'get_player_image'  4186.00 ms
+NoneType: None
+2019-07-12 16:20:50,441 - Time Logger - ERROR - 'get_player_image'  4186.00 ms
+NoneType: None
+2019-07-12 16:20:50,441 - Time Logger - ERROR - 'get_player_image'  4186.00 ms
+NoneType: None
+2019-07-12 16:20:50,441 - Time Logger - ERROR - 'get_player_image'  4186.00 ms
+NoneType: None
+2019-07-12 16:20:50,441 - Time Logger - ERROR - 'get_player_image'  4186.00 ms
+NoneType: None
+2019-07-12 16:20:50,441 - Time Logger - ERROR - 'get_player_image'  4186.00 ms
+NoneType: None
+2019-07-12 16:20:50,441 - Time Logger - ERROR - 'get_player_image'  4186.00 ms
+NoneType: None
+2019-07-12 16:20:50,441 - Time Logger - ERROR - 'get_player_image'  4186.00 ms
+NoneType: None
+2019-07-12 16:20:50,441 - Time Logger - ERROR - 'get_player_image'  4186.00 ms
+NoneType: None
+2019-07-12 16:20:50,441 - Time Logger - ERROR - 'get_player_image'  4186.00 ms
+NoneType: None
+2019-07-12 16:20:50,441 - Time Logger - ERROR - 'get_player_image'  4186.00 ms
+NoneType: None
+2019-07-12 16:20:50,441 - Time Logger - ERROR - 'get_player_image'  4186.00 ms
+NoneType: None
+2019-07-12 16:20:50,441 - Time Logger - ERROR - 'get_player_image'  4186.00 ms
+NoneType: None
+2019-07-12 16:20:50,441 - Time Logger - ERROR - 'get_player_image'  4186.00 ms
+NoneType: None
+2019-07-12 16:20:50,441 - Time Logger - ERROR - 'get_player_image'  4186.00 ms
+NoneType: None
+2019-07-12 16:20:54,155 - Time Logger - ERROR - 'get_player_image'  3712.03 ms
+NoneType: None
+2019-07-12 16:20:54,155 - Time Logger - ERROR - 'get_player_image'  3712.03 ms
+NoneType: None
+2019-07-12 16:20:54,155 - Time Logger - ERROR - 'get_player_image'  3712.03 ms
+NoneType: None
+2019-07-12 16:20:54,155 - Time Logger - ERROR - 'get_player_image'  3712.03 ms
+NoneType: None
+2019-07-12 16:20:54,155 - Time Logger - ERROR - 'get_player_image'  3712.03 ms
+NoneType: None
+2019-07-12 16:20:54,155 - Time Logger - ERROR - 'get_player_image'  3712.03 ms
+NoneType: None
+2019-07-12 16:20:54,155 - Time Logger - ERROR - 'get_player_image'  3712.03 ms
+NoneType: None
+2019-07-12 16:20:54,155 - Time Logger - ERROR - 'get_player_image'  3712.03 ms
+NoneType: None
+2019-07-12 16:20:54,155 - Time Logger - ERROR - 'get_player_image'  3712.03 ms
+NoneType: None
+2019-07-12 16:20:54,155 - Time Logger - ERROR - 'get_player_image'  3712.03 ms
+NoneType: None
+2019-07-12 16:20:54,155 - Time Logger - ERROR - 'get_player_image'  3712.03 ms
+NoneType: None
+2019-07-12 16:20:54,155 - Time Logger - ERROR - 'get_player_image'  3712.03 ms
+NoneType: None
+2019-07-12 16:20:54,155 - Time Logger - ERROR - 'get_player_image'  3712.03 ms
+NoneType: None
+2019-07-12 16:20:54,155 - Time Logger - ERROR - 'get_player_image'  3712.03 ms
+NoneType: None
+2019-07-12 16:20:54,155 - Time Logger - ERROR - 'get_player_image'  3712.03 ms
+NoneType: None
+2019-07-12 16:20:54,155 - Time Logger - ERROR - 'get_player_image'  3712.03 ms
+NoneType: None
+2019-07-12 16:20:54,155 - Time Logger - ERROR - 'get_player_image'  3712.03 ms
+NoneType: None
+2019-07-12 16:20:54,155 - Time Logger - ERROR - 'get_player_image'  3712.03 ms
+NoneType: None
+2019-07-12 16:20:54,155 - Time Logger - ERROR - 'get_player_image'  3712.03 ms
+NoneType: None
+2019-07-12 16:20:54,155 - Time Logger - ERROR - 'get_player_image'  3712.03 ms
+NoneType: None
+2019-07-12 16:20:54,155 - Time Logger - ERROR - 'get_player_image'  3712.03 ms
+NoneType: None
+2019-07-12 16:20:54,155 - Time Logger - ERROR - 'get_player_image'  3712.03 ms
+NoneType: None
+2019-07-12 16:20:54,155 - Time Logger - ERROR - 'get_player_image'  3712.03 ms
+NoneType: None
+2019-07-12 16:20:54,155 - Time Logger - ERROR - 'get_player_image'  3712.03 ms
+NoneType: None
+2019-07-12 16:20:56,945 - Time Logger - ERROR - 'get_player_image'  2788.11 ms
+NoneType: None
+2019-07-12 16:20:56,945 - Time Logger - ERROR - 'get_player_image'  2788.11 ms
+NoneType: None
+2019-07-12 16:20:56,945 - Time Logger - ERROR - 'get_player_image'  2788.11 ms
+NoneType: None
+2019-07-12 16:20:56,945 - Time Logger - ERROR - 'get_player_image'  2788.11 ms
+NoneType: None
+2019-07-12 16:20:56,945 - Time Logger - ERROR - 'get_player_image'  2788.11 ms
+NoneType: None
+2019-07-12 16:20:56,945 - Time Logger - ERROR - 'get_player_image'  2788.11 ms
+NoneType: None
+2019-07-12 16:20:56,945 - Time Logger - ERROR - 'get_player_image'  2788.11 ms
+NoneType: None
+2019-07-12 16:20:56,945 - Time Logger - ERROR - 'get_player_image'  2788.11 ms
+NoneType: None
+2019-07-12 16:20:56,945 - Time Logger - ERROR - 'get_player_image'  2788.11 ms
+NoneType: None
+2019-07-12 16:20:56,945 - Time Logger - ERROR - 'get_player_image'  2788.11 ms
+NoneType: None
+2019-07-12 16:20:56,945 - Time Logger - ERROR - 'get_player_image'  2788.11 ms
+NoneType: None
+2019-07-12 16:20:56,945 - Time Logger - ERROR - 'get_player_image'  2788.11 ms
+NoneType: None
+2019-07-12 16:20:56,945 - Time Logger - ERROR - 'get_player_image'  2788.11 ms
+NoneType: None
+2019-07-12 16:20:56,945 - Time Logger - ERROR - 'get_player_image'  2788.11 ms
+NoneType: None
+2019-07-12 16:20:56,945 - Time Logger - ERROR - 'get_player_image'  2788.11 ms
+NoneType: None
+2019-07-12 16:20:56,945 - Time Logger - ERROR - 'get_player_image'  2788.11 ms
+NoneType: None
+2019-07-12 16:20:56,945 - Time Logger - ERROR - 'get_player_image'  2788.11 ms
+NoneType: None
+2019-07-12 16:20:56,945 - Time Logger - ERROR - 'get_player_image'  2788.11 ms
+NoneType: None
+2019-07-12 16:20:56,945 - Time Logger - ERROR - 'get_player_image'  2788.11 ms
+NoneType: None
+2019-07-12 16:20:56,945 - Time Logger - ERROR - 'get_player_image'  2788.11 ms
+NoneType: None
+2019-07-12 16:20:56,945 - Time Logger - ERROR - 'get_player_image'  2788.11 ms
+NoneType: None
+2019-07-12 16:20:56,945 - Time Logger - ERROR - 'get_player_image'  2788.11 ms
+NoneType: None
+2019-07-12 16:20:56,945 - Time Logger - ERROR - 'get_player_image'  2788.11 ms
+NoneType: None
+2019-07-12 16:20:56,945 - Time Logger - ERROR - 'get_player_image'  2788.11 ms
+NoneType: None
+2019-07-12 16:20:56,945 - Time Logger - ERROR - 'get_player_image'  2788.11 ms
+NoneType: None
+2019-07-12 16:20:59,265 - Time Logger - ERROR - 'get_player_image'  2317.24 ms
+NoneType: None
+2019-07-12 16:20:59,265 - Time Logger - ERROR - 'get_player_image'  2317.24 ms
+NoneType: None
+2019-07-12 16:20:59,265 - Time Logger - ERROR - 'get_player_image'  2317.24 ms
+NoneType: None
+2019-07-12 16:20:59,265 - Time Logger - ERROR - 'get_player_image'  2317.24 ms
+NoneType: None
+2019-07-12 16:20:59,265 - Time Logger - ERROR - 'get_player_image'  2317.24 ms
+NoneType: None
+2019-07-12 16:20:59,265 - Time Logger - ERROR - 'get_player_image'  2317.24 ms
+NoneType: None
+2019-07-12 16:20:59,265 - Time Logger - ERROR - 'get_player_image'  2317.24 ms
+NoneType: None
+2019-07-12 16:20:59,265 - Time Logger - ERROR - 'get_player_image'  2317.24 ms
+NoneType: None
+2019-07-12 16:20:59,265 - Time Logger - ERROR - 'get_player_image'  2317.24 ms
+NoneType: None
+2019-07-12 16:20:59,265 - Time Logger - ERROR - 'get_player_image'  2317.24 ms
+NoneType: None
+2019-07-12 16:20:59,265 - Time Logger - ERROR - 'get_player_image'  2317.24 ms
+NoneType: None
+2019-07-12 16:20:59,265 - Time Logger - ERROR - 'get_player_image'  2317.24 ms
+NoneType: None
+2019-07-12 16:20:59,265 - Time Logger - ERROR - 'get_player_image'  2317.24 ms
+NoneType: None
+2019-07-12 16:20:59,265 - Time Logger - ERROR - 'get_player_image'  2317.24 ms
+NoneType: None
+2019-07-12 16:20:59,265 - Time Logger - ERROR - 'get_player_image'  2317.24 ms
+NoneType: None
+2019-07-12 16:20:59,265 - Time Logger - ERROR - 'get_player_image'  2317.24 ms
+NoneType: None
+2019-07-12 16:20:59,265 - Time Logger - ERROR - 'get_player_image'  2317.24 ms
+NoneType: None
+2019-07-12 16:20:59,265 - Time Logger - ERROR - 'get_player_image'  2317.24 ms
+NoneType: None
+2019-07-12 16:20:59,265 - Time Logger - ERROR - 'get_player_image'  2317.24 ms
+NoneType: None
+2019-07-12 16:20:59,265 - Time Logger - ERROR - 'get_player_image'  2317.24 ms
+NoneType: None
+2019-07-12 16:20:59,265 - Time Logger - ERROR - 'get_player_image'  2317.24 ms
+NoneType: None
+2019-07-12 16:20:59,265 - Time Logger - ERROR - 'get_player_image'  2317.24 ms
+NoneType: None
+2019-07-12 16:20:59,265 - Time Logger - ERROR - 'get_player_image'  2317.24 ms
+NoneType: None
+2019-07-12 16:20:59,265 - Time Logger - ERROR - 'get_player_image'  2317.24 ms
+NoneType: None
+2019-07-12 16:20:59,265 - Time Logger - ERROR - 'get_player_image'  2317.24 ms
+NoneType: None
+2019-07-12 16:20:59,265 - Time Logger - ERROR - 'get_player_image'  2317.24 ms
+NoneType: None
+2019-07-12 16:21:02,365 - Time Logger - ERROR - 'get_player_image'  3097.33 ms
+NoneType: None
+2019-07-12 16:21:02,365 - Time Logger - ERROR - 'get_player_image'  3097.33 ms
+NoneType: None
+2019-07-12 16:21:02,365 - Time Logger - ERROR - 'get_player_image'  3097.33 ms
+NoneType: None
+2019-07-12 16:21:02,365 - Time Logger - ERROR - 'get_player_image'  3097.33 ms
+NoneType: None
+2019-07-12 16:21:02,365 - Time Logger - ERROR - 'get_player_image'  3097.33 ms
+NoneType: None
+2019-07-12 16:21:02,365 - Time Logger - ERROR - 'get_player_image'  3097.33 ms
+NoneType: None
+2019-07-12 16:21:02,365 - Time Logger - ERROR - 'get_player_image'  3097.33 ms
+NoneType: None
+2019-07-12 16:21:02,365 - Time Logger - ERROR - 'get_player_image'  3097.33 ms
+NoneType: None
+2019-07-12 16:21:02,365 - Time Logger - ERROR - 'get_player_image'  3097.33 ms
+NoneType: None
+2019-07-12 16:21:02,365 - Time Logger - ERROR - 'get_player_image'  3097.33 ms
+NoneType: None
+2019-07-12 16:21:02,365 - Time Logger - ERROR - 'get_player_image'  3097.33 ms
+NoneType: None
+2019-07-12 16:21:02,365 - Time Logger - ERROR - 'get_player_image'  3097.33 ms
+NoneType: None
+2019-07-12 16:21:02,365 - Time Logger - ERROR - 'get_player_image'  3097.33 ms
+NoneType: None
+2019-07-12 16:21:02,365 - Time Logger - ERROR - 'get_player_image'  3097.33 ms
+NoneType: None
+2019-07-12 16:21:02,365 - Time Logger - ERROR - 'get_player_image'  3097.33 ms
+NoneType: None
+2019-07-12 16:21:02,365 - Time Logger - ERROR - 'get_player_image'  3097.33 ms
+NoneType: None
+2019-07-12 16:21:02,365 - Time Logger - ERROR - 'get_player_image'  3097.33 ms
+NoneType: None
+2019-07-12 16:21:02,365 - Time Logger - ERROR - 'get_player_image'  3097.33 ms
+NoneType: None
+2019-07-12 16:21:02,365 - Time Logger - ERROR - 'get_player_image'  3097.33 ms
+NoneType: None
+2019-07-12 16:21:02,365 - Time Logger - ERROR - 'get_player_image'  3097.33 ms
+NoneType: None
+2019-07-12 16:21:02,365 - Time Logger - ERROR - 'get_player_image'  3097.33 ms
+NoneType: None
+2019-07-12 16:21:02,365 - Time Logger - ERROR - 'get_player_image'  3097.33 ms
+NoneType: None
+2019-07-12 16:21:02,365 - Time Logger - ERROR - 'get_player_image'  3097.33 ms
+NoneType: None
+2019-07-12 16:21:02,365 - Time Logger - ERROR - 'get_player_image'  3097.33 ms
+NoneType: None
+2019-07-12 16:21:02,365 - Time Logger - ERROR - 'get_player_image'  3097.33 ms
+NoneType: None
+2019-07-12 16:21:02,365 - Time Logger - ERROR - 'get_player_image'  3097.33 ms
+NoneType: None
+2019-07-12 16:21:02,365 - Time Logger - ERROR - 'get_player_image'  3097.33 ms
+NoneType: None
+2019-07-12 16:21:05,650 - Time Logger - ERROR - 'get_player_image'  3281.41 ms
+NoneType: None
+2019-07-12 16:21:05,650 - Time Logger - ERROR - 'get_player_image'  3281.41 ms
+NoneType: None
+2019-07-12 16:21:05,650 - Time Logger - ERROR - 'get_player_image'  3281.41 ms
+NoneType: None
+2019-07-12 16:21:05,650 - Time Logger - ERROR - 'get_player_image'  3281.41 ms
+NoneType: None
+2019-07-12 16:21:05,650 - Time Logger - ERROR - 'get_player_image'  3281.41 ms
+NoneType: None
+2019-07-12 16:21:05,650 - Time Logger - ERROR - 'get_player_image'  3281.41 ms
+NoneType: None
+2019-07-12 16:21:05,650 - Time Logger - ERROR - 'get_player_image'  3281.41 ms
+NoneType: None
+2019-07-12 16:21:05,650 - Time Logger - ERROR - 'get_player_image'  3281.41 ms
+NoneType: None
+2019-07-12 16:21:05,650 - Time Logger - ERROR - 'get_player_image'  3281.41 ms
+NoneType: None
+2019-07-12 16:21:05,650 - Time Logger - ERROR - 'get_player_image'  3281.41 ms
+NoneType: None
+2019-07-12 16:21:05,650 - Time Logger - ERROR - 'get_player_image'  3281.41 ms
+NoneType: None
+2019-07-12 16:21:05,650 - Time Logger - ERROR - 'get_player_image'  3281.41 ms
+NoneType: None
+2019-07-12 16:21:05,650 - Time Logger - ERROR - 'get_player_image'  3281.41 ms
+NoneType: None
+2019-07-12 16:21:05,650 - Time Logger - ERROR - 'get_player_image'  3281.41 ms
+NoneType: None
+2019-07-12 16:21:05,650 - Time Logger - ERROR - 'get_player_image'  3281.41 ms
+NoneType: None
+2019-07-12 16:21:05,650 - Time Logger - ERROR - 'get_player_image'  3281.41 ms
+NoneType: None
+2019-07-12 16:21:05,650 - Time Logger - ERROR - 'get_player_image'  3281.41 ms
+NoneType: None
+2019-07-12 16:21:05,650 - Time Logger - ERROR - 'get_player_image'  3281.41 ms
+NoneType: None
+2019-07-12 16:21:05,650 - Time Logger - ERROR - 'get_player_image'  3281.41 ms
+NoneType: None
+2019-07-12 16:21:05,650 - Time Logger - ERROR - 'get_player_image'  3281.41 ms
+NoneType: None
+2019-07-12 16:21:05,650 - Time Logger - ERROR - 'get_player_image'  3281.41 ms
+NoneType: None
+2019-07-12 16:21:05,650 - Time Logger - ERROR - 'get_player_image'  3281.41 ms
+NoneType: None
+2019-07-12 16:21:05,650 - Time Logger - ERROR - 'get_player_image'  3281.41 ms
+NoneType: None
+2019-07-12 16:21:05,650 - Time Logger - ERROR - 'get_player_image'  3281.41 ms
+NoneType: None
+2019-07-12 16:21:05,650 - Time Logger - ERROR - 'get_player_image'  3281.41 ms
+NoneType: None
+2019-07-12 16:21:05,650 - Time Logger - ERROR - 'get_player_image'  3281.41 ms
+NoneType: None
+2019-07-12 16:21:05,650 - Time Logger - ERROR - 'get_player_image'  3281.41 ms
+NoneType: None
+2019-07-12 16:21:05,650 - Time Logger - ERROR - 'get_player_image'  3281.41 ms
+NoneType: None
+2019-07-12 16:21:10,216 - Time Logger - ERROR - 'get_player_image'  4562.72 ms
+NoneType: None
+2019-07-12 16:21:10,216 - Time Logger - ERROR - 'get_player_image'  4562.72 ms
+NoneType: None
+2019-07-12 16:21:10,216 - Time Logger - ERROR - 'get_player_image'  4562.72 ms
+NoneType: None
+2019-07-12 16:21:10,216 - Time Logger - ERROR - 'get_player_image'  4562.72 ms
+NoneType: None
+2019-07-12 16:21:10,216 - Time Logger - ERROR - 'get_player_image'  4562.72 ms
+NoneType: None
+2019-07-12 16:21:10,216 - Time Logger - ERROR - 'get_player_image'  4562.72 ms
+NoneType: None
+2019-07-12 16:21:10,216 - Time Logger - ERROR - 'get_player_image'  4562.72 ms
+NoneType: None
+2019-07-12 16:21:10,216 - Time Logger - ERROR - 'get_player_image'  4562.72 ms
+NoneType: None
+2019-07-12 16:21:10,216 - Time Logger - ERROR - 'get_player_image'  4562.72 ms
+NoneType: None
+2019-07-12 16:21:10,216 - Time Logger - ERROR - 'get_player_image'  4562.72 ms
+NoneType: None
+2019-07-12 16:21:10,216 - Time Logger - ERROR - 'get_player_image'  4562.72 ms
+NoneType: None
+2019-07-12 16:21:10,216 - Time Logger - ERROR - 'get_player_image'  4562.72 ms
+NoneType: None
+2019-07-12 16:21:10,216 - Time Logger - ERROR - 'get_player_image'  4562.72 ms
+NoneType: None
+2019-07-12 16:21:10,216 - Time Logger - ERROR - 'get_player_image'  4562.72 ms
+NoneType: None
+2019-07-12 16:21:10,216 - Time Logger - ERROR - 'get_player_image'  4562.72 ms
+NoneType: None
+2019-07-12 16:21:10,216 - Time Logger - ERROR - 'get_player_image'  4562.72 ms
+NoneType: None
+2019-07-12 16:21:10,216 - Time Logger - ERROR - 'get_player_image'  4562.72 ms
+NoneType: None
+2019-07-12 16:21:10,216 - Time Logger - ERROR - 'get_player_image'  4562.72 ms
+NoneType: None
+2019-07-12 16:21:10,216 - Time Logger - ERROR - 'get_player_image'  4562.72 ms
+NoneType: None
+2019-07-12 16:21:10,216 - Time Logger - ERROR - 'get_player_image'  4562.72 ms
+NoneType: None
+2019-07-12 16:21:10,216 - Time Logger - ERROR - 'get_player_image'  4562.72 ms
+NoneType: None
+2019-07-12 16:21:10,216 - Time Logger - ERROR - 'get_player_image'  4562.72 ms
+NoneType: None
+2019-07-12 16:21:10,216 - Time Logger - ERROR - 'get_player_image'  4562.72 ms
+NoneType: None
+2019-07-12 16:21:10,216 - Time Logger - ERROR - 'get_player_image'  4562.72 ms
+NoneType: None
+2019-07-12 16:21:10,216 - Time Logger - ERROR - 'get_player_image'  4562.72 ms
+NoneType: None
+2019-07-12 16:21:10,216 - Time Logger - ERROR - 'get_player_image'  4562.72 ms
+NoneType: None
+2019-07-12 16:21:10,216 - Time Logger - ERROR - 'get_player_image'  4562.72 ms
+NoneType: None
+2019-07-12 16:21:10,216 - Time Logger - ERROR - 'get_player_image'  4562.72 ms
+NoneType: None
+2019-07-12 16:21:10,216 - Time Logger - ERROR - 'get_player_image'  4562.72 ms
+NoneType: None
+2019-07-12 16:21:13,627 - Time Logger - ERROR - 'get_player_image'  3407.45 ms
+NoneType: None
+2019-07-12 16:21:13,627 - Time Logger - ERROR - 'get_player_image'  3407.45 ms
+NoneType: None
+2019-07-12 16:21:13,627 - Time Logger - ERROR - 'get_player_image'  3407.45 ms
+NoneType: None
+2019-07-12 16:21:13,627 - Time Logger - ERROR - 'get_player_image'  3407.45 ms
+NoneType: None
+2019-07-12 16:21:13,627 - Time Logger - ERROR - 'get_player_image'  3407.45 ms
+NoneType: None
+2019-07-12 16:21:13,627 - Time Logger - ERROR - 'get_player_image'  3407.45 ms
+NoneType: None
+2019-07-12 16:21:13,627 - Time Logger - ERROR - 'get_player_image'  3407.45 ms
+NoneType: None
+2019-07-12 16:21:13,627 - Time Logger - ERROR - 'get_player_image'  3407.45 ms
+NoneType: None
+2019-07-12 16:21:13,627 - Time Logger - ERROR - 'get_player_image'  3407.45 ms
+NoneType: None
+2019-07-12 16:21:13,627 - Time Logger - ERROR - 'get_player_image'  3407.45 ms
+NoneType: None
+2019-07-12 16:21:13,627 - Time Logger - ERROR - 'get_player_image'  3407.45 ms
+NoneType: None
+2019-07-12 16:21:13,627 - Time Logger - ERROR - 'get_player_image'  3407.45 ms
+NoneType: None
+2019-07-12 16:21:13,627 - Time Logger - ERROR - 'get_player_image'  3407.45 ms
+NoneType: None
+2019-07-12 16:21:13,627 - Time Logger - ERROR - 'get_player_image'  3407.45 ms
+NoneType: None
+2019-07-12 16:21:13,627 - Time Logger - ERROR - 'get_player_image'  3407.45 ms
+NoneType: None
+2019-07-12 16:21:13,627 - Time Logger - ERROR - 'get_player_image'  3407.45 ms
+NoneType: None
+2019-07-12 16:21:13,627 - Time Logger - ERROR - 'get_player_image'  3407.45 ms
+NoneType: None
+2019-07-12 16:21:13,627 - Time Logger - ERROR - 'get_player_image'  3407.45 ms
+NoneType: None
+2019-07-12 16:21:13,627 - Time Logger - ERROR - 'get_player_image'  3407.45 ms
+NoneType: None
+2019-07-12 16:21:13,627 - Time Logger - ERROR - 'get_player_image'  3407.45 ms
+NoneType: None
+2019-07-12 16:21:13,627 - Time Logger - ERROR - 'get_player_image'  3407.45 ms
+NoneType: None
+2019-07-12 16:21:13,627 - Time Logger - ERROR - 'get_player_image'  3407.45 ms
+NoneType: None
+2019-07-12 16:21:13,627 - Time Logger - ERROR - 'get_player_image'  3407.45 ms
+NoneType: None
+2019-07-12 16:21:13,627 - Time Logger - ERROR - 'get_player_image'  3407.45 ms
+NoneType: None
+2019-07-12 16:21:13,627 - Time Logger - ERROR - 'get_player_image'  3407.45 ms
+NoneType: None
+2019-07-12 16:21:13,627 - Time Logger - ERROR - 'get_player_image'  3407.45 ms
+NoneType: None
+2019-07-12 16:21:13,627 - Time Logger - ERROR - 'get_player_image'  3407.45 ms
+NoneType: None
+2019-07-12 16:21:13,627 - Time Logger - ERROR - 'get_player_image'  3407.45 ms
+NoneType: None
+2019-07-12 16:21:13,627 - Time Logger - ERROR - 'get_player_image'  3407.45 ms
+NoneType: None
+2019-07-12 16:21:13,627 - Time Logger - ERROR - 'get_player_image'  3407.45 ms
+NoneType: None
+2019-07-12 16:21:19,197 - Time Logger - ERROR - 'get_player_image'  5567.06 ms
+NoneType: None
+2019-07-12 16:21:19,197 - Time Logger - ERROR - 'get_player_image'  5567.06 ms
+NoneType: None
+2019-07-12 16:21:19,197 - Time Logger - ERROR - 'get_player_image'  5567.06 ms
+NoneType: None
+2019-07-12 16:21:19,197 - Time Logger - ERROR - 'get_player_image'  5567.06 ms
+NoneType: None
+2019-07-12 16:21:19,197 - Time Logger - ERROR - 'get_player_image'  5567.06 ms
+NoneType: None
+2019-07-12 16:21:19,197 - Time Logger - ERROR - 'get_player_image'  5567.06 ms
+NoneType: None
+2019-07-12 16:21:19,197 - Time Logger - ERROR - 'get_player_image'  5567.06 ms
+NoneType: None
+2019-07-12 16:21:19,197 - Time Logger - ERROR - 'get_player_image'  5567.06 ms
+NoneType: None
+2019-07-12 16:21:19,197 - Time Logger - ERROR - 'get_player_image'  5567.06 ms
+NoneType: None
+2019-07-12 16:21:19,197 - Time Logger - ERROR - 'get_player_image'  5567.06 ms
+NoneType: None
+2019-07-12 16:21:19,197 - Time Logger - ERROR - 'get_player_image'  5567.06 ms
+NoneType: None
+2019-07-12 16:21:19,197 - Time Logger - ERROR - 'get_player_image'  5567.06 ms
+NoneType: None
+2019-07-12 16:21:19,197 - Time Logger - ERROR - 'get_player_image'  5567.06 ms
+NoneType: None
+2019-07-12 16:21:19,197 - Time Logger - ERROR - 'get_player_image'  5567.06 ms
+NoneType: None
+2019-07-12 16:21:19,197 - Time Logger - ERROR - 'get_player_image'  5567.06 ms
+NoneType: None
+2019-07-12 16:21:19,197 - Time Logger - ERROR - 'get_player_image'  5567.06 ms
+NoneType: None
+2019-07-12 16:21:19,197 - Time Logger - ERROR - 'get_player_image'  5567.06 ms
+NoneType: None
+2019-07-12 16:21:19,197 - Time Logger - ERROR - 'get_player_image'  5567.06 ms
+NoneType: None
+2019-07-12 16:21:19,197 - Time Logger - ERROR - 'get_player_image'  5567.06 ms
+NoneType: None
+2019-07-12 16:21:19,197 - Time Logger - ERROR - 'get_player_image'  5567.06 ms
+NoneType: None
+2019-07-12 16:21:19,197 - Time Logger - ERROR - 'get_player_image'  5567.06 ms
+NoneType: None
+2019-07-12 16:21:19,197 - Time Logger - ERROR - 'get_player_image'  5567.06 ms
+NoneType: None
+2019-07-12 16:21:19,197 - Time Logger - ERROR - 'get_player_image'  5567.06 ms
+NoneType: None
+2019-07-12 16:21:19,197 - Time Logger - ERROR - 'get_player_image'  5567.06 ms
+NoneType: None
+2019-07-12 16:21:19,197 - Time Logger - ERROR - 'get_player_image'  5567.06 ms
+NoneType: None
+2019-07-12 16:21:19,197 - Time Logger - ERROR - 'get_player_image'  5567.06 ms
+NoneType: None
+2019-07-12 16:21:19,197 - Time Logger - ERROR - 'get_player_image'  5567.06 ms
+NoneType: None
+2019-07-12 16:21:19,197 - Time Logger - ERROR - 'get_player_image'  5567.06 ms
+NoneType: None
+2019-07-12 16:21:19,197 - Time Logger - ERROR - 'get_player_image'  5567.06 ms
+NoneType: None
+2019-07-12 16:21:19,197 - Time Logger - ERROR - 'get_player_image'  5567.06 ms
+NoneType: None
+2019-07-12 16:21:19,197 - Time Logger - ERROR - 'get_player_image'  5567.06 ms
+NoneType: None
+2019-07-12 16:21:22,089 - Time Logger - ERROR - 'get_player_image'  2889.54 ms
+NoneType: None
+2019-07-12 16:21:22,089 - Time Logger - ERROR - 'get_player_image'  2889.54 ms
+NoneType: None
+2019-07-12 16:21:22,089 - Time Logger - ERROR - 'get_player_image'  2889.54 ms
+NoneType: None
+2019-07-12 16:21:22,089 - Time Logger - ERROR - 'get_player_image'  2889.54 ms
+NoneType: None
+2019-07-12 16:21:22,089 - Time Logger - ERROR - 'get_player_image'  2889.54 ms
+NoneType: None
+2019-07-12 16:21:22,089 - Time Logger - ERROR - 'get_player_image'  2889.54 ms
+NoneType: None
+2019-07-12 16:21:22,089 - Time Logger - ERROR - 'get_player_image'  2889.54 ms
+NoneType: None
+2019-07-12 16:21:22,089 - Time Logger - ERROR - 'get_player_image'  2889.54 ms
+NoneType: None
+2019-07-12 16:21:22,089 - Time Logger - ERROR - 'get_player_image'  2889.54 ms
+NoneType: None
+2019-07-12 16:21:22,089 - Time Logger - ERROR - 'get_player_image'  2889.54 ms
+NoneType: None
+2019-07-12 16:21:22,089 - Time Logger - ERROR - 'get_player_image'  2889.54 ms
+NoneType: None
+2019-07-12 16:21:22,089 - Time Logger - ERROR - 'get_player_image'  2889.54 ms
+NoneType: None
+2019-07-12 16:21:22,089 - Time Logger - ERROR - 'get_player_image'  2889.54 ms
+NoneType: None
+2019-07-12 16:21:22,089 - Time Logger - ERROR - 'get_player_image'  2889.54 ms
+NoneType: None
+2019-07-12 16:21:22,089 - Time Logger - ERROR - 'get_player_image'  2889.54 ms
+NoneType: None
+2019-07-12 16:21:22,089 - Time Logger - ERROR - 'get_player_image'  2889.54 ms
+NoneType: None
+2019-07-12 16:21:22,089 - Time Logger - ERROR - 'get_player_image'  2889.54 ms
+NoneType: None
+2019-07-12 16:21:22,089 - Time Logger - ERROR - 'get_player_image'  2889.54 ms
+NoneType: None
+2019-07-12 16:21:22,089 - Time Logger - ERROR - 'get_player_image'  2889.54 ms
+NoneType: None
+2019-07-12 16:21:22,089 - Time Logger - ERROR - 'get_player_image'  2889.54 ms
+NoneType: None
+2019-07-12 16:21:22,089 - Time Logger - ERROR - 'get_player_image'  2889.54 ms
+NoneType: None
+2019-07-12 16:21:22,089 - Time Logger - ERROR - 'get_player_image'  2889.54 ms
+NoneType: None
+2019-07-12 16:21:22,089 - Time Logger - ERROR - 'get_player_image'  2889.54 ms
+NoneType: None
+2019-07-12 16:21:22,089 - Time Logger - ERROR - 'get_player_image'  2889.54 ms
+NoneType: None
+2019-07-12 16:21:22,089 - Time Logger - ERROR - 'get_player_image'  2889.54 ms
+NoneType: None
+2019-07-12 16:21:22,089 - Time Logger - ERROR - 'get_player_image'  2889.54 ms
+NoneType: None
+2019-07-12 16:21:22,089 - Time Logger - ERROR - 'get_player_image'  2889.54 ms
+NoneType: None
+2019-07-12 16:21:22,089 - Time Logger - ERROR - 'get_player_image'  2889.54 ms
+NoneType: None
+2019-07-12 16:21:22,089 - Time Logger - ERROR - 'get_player_image'  2889.54 ms
+NoneType: None
+2019-07-12 16:21:22,089 - Time Logger - ERROR - 'get_player_image'  2889.54 ms
+NoneType: None
+2019-07-12 16:21:22,089 - Time Logger - ERROR - 'get_player_image'  2889.54 ms
+NoneType: None
+2019-07-12 16:21:22,089 - Time Logger - ERROR - 'get_player_image'  2889.54 ms
+NoneType: None
+2019-07-12 16:21:26,192 - Time Logger - ERROR - 'get_player_image'  4099.69 ms
+NoneType: None
+2019-07-12 16:21:26,192 - Time Logger - ERROR - 'get_player_image'  4099.69 ms
+NoneType: None
+2019-07-12 16:21:26,192 - Time Logger - ERROR - 'get_player_image'  4099.69 ms
+NoneType: None
+2019-07-12 16:21:26,192 - Time Logger - ERROR - 'get_player_image'  4099.69 ms
+NoneType: None
+2019-07-12 16:21:26,192 - Time Logger - ERROR - 'get_player_image'  4099.69 ms
+NoneType: None
+2019-07-12 16:21:26,192 - Time Logger - ERROR - 'get_player_image'  4099.69 ms
+NoneType: None
+2019-07-12 16:21:26,192 - Time Logger - ERROR - 'get_player_image'  4099.69 ms
+NoneType: None
+2019-07-12 16:21:26,192 - Time Logger - ERROR - 'get_player_image'  4099.69 ms
+NoneType: None
+2019-07-12 16:21:26,192 - Time Logger - ERROR - 'get_player_image'  4099.69 ms
+NoneType: None
+2019-07-12 16:21:26,192 - Time Logger - ERROR - 'get_player_image'  4099.69 ms
+NoneType: None
+2019-07-12 16:21:26,192 - Time Logger - ERROR - 'get_player_image'  4099.69 ms
+NoneType: None
+2019-07-12 16:21:26,192 - Time Logger - ERROR - 'get_player_image'  4099.69 ms
+NoneType: None
+2019-07-12 16:21:26,192 - Time Logger - ERROR - 'get_player_image'  4099.69 ms
+NoneType: None
+2019-07-12 16:21:26,192 - Time Logger - ERROR - 'get_player_image'  4099.69 ms
+NoneType: None
+2019-07-12 16:21:26,192 - Time Logger - ERROR - 'get_player_image'  4099.69 ms
+NoneType: None
+2019-07-12 16:21:26,192 - Time Logger - ERROR - 'get_player_image'  4099.69 ms
+NoneType: None
+2019-07-12 16:21:26,192 - Time Logger - ERROR - 'get_player_image'  4099.69 ms
+NoneType: None
+2019-07-12 16:21:26,192 - Time Logger - ERROR - 'get_player_image'  4099.69 ms
+NoneType: None
+2019-07-12 16:21:26,192 - Time Logger - ERROR - 'get_player_image'  4099.69 ms
+NoneType: None
+2019-07-12 16:21:26,192 - Time Logger - ERROR - 'get_player_image'  4099.69 ms
+NoneType: None
+2019-07-12 16:21:26,192 - Time Logger - ERROR - 'get_player_image'  4099.69 ms
+NoneType: None
+2019-07-12 16:21:26,192 - Time Logger - ERROR - 'get_player_image'  4099.69 ms
+NoneType: None
+2019-07-12 16:21:26,192 - Time Logger - ERROR - 'get_player_image'  4099.69 ms
+NoneType: None
+2019-07-12 16:21:26,192 - Time Logger - ERROR - 'get_player_image'  4099.69 ms
+NoneType: None
+2019-07-12 16:21:26,192 - Time Logger - ERROR - 'get_player_image'  4099.69 ms
+NoneType: None
+2019-07-12 16:21:26,192 - Time Logger - ERROR - 'get_player_image'  4099.69 ms
+NoneType: None
+2019-07-12 16:21:26,192 - Time Logger - ERROR - 'get_player_image'  4099.69 ms
+NoneType: None
+2019-07-12 16:21:26,192 - Time Logger - ERROR - 'get_player_image'  4099.69 ms
+NoneType: None
+2019-07-12 16:21:26,192 - Time Logger - ERROR - 'get_player_image'  4099.69 ms
+NoneType: None
+2019-07-12 16:21:26,192 - Time Logger - ERROR - 'get_player_image'  4099.69 ms
+NoneType: None
+2019-07-12 16:21:26,192 - Time Logger - ERROR - 'get_player_image'  4099.69 ms
+NoneType: None
+2019-07-12 16:21:26,192 - Time Logger - ERROR - 'get_player_image'  4099.69 ms
+NoneType: None
+2019-07-12 16:21:26,192 - Time Logger - ERROR - 'get_player_image'  4099.69 ms
+NoneType: None
+2019-07-12 16:21:27,933 - Time Logger - ERROR - 'get_player_image'  1737.74 ms
+NoneType: None
+2019-07-12 16:21:27,933 - Time Logger - ERROR - 'get_player_image'  1737.74 ms
+NoneType: None
+2019-07-12 16:21:27,933 - Time Logger - ERROR - 'get_player_image'  1737.74 ms
+NoneType: None
+2019-07-12 16:21:27,933 - Time Logger - ERROR - 'get_player_image'  1737.74 ms
+NoneType: None
+2019-07-12 16:21:27,933 - Time Logger - ERROR - 'get_player_image'  1737.74 ms
+NoneType: None
+2019-07-12 16:21:27,933 - Time Logger - ERROR - 'get_player_image'  1737.74 ms
+NoneType: None
+2019-07-12 16:21:27,933 - Time Logger - ERROR - 'get_player_image'  1737.74 ms
+NoneType: None
+2019-07-12 16:21:27,933 - Time Logger - ERROR - 'get_player_image'  1737.74 ms
+NoneType: None
+2019-07-12 16:21:27,933 - Time Logger - ERROR - 'get_player_image'  1737.74 ms
+NoneType: None
+2019-07-12 16:21:27,933 - Time Logger - ERROR - 'get_player_image'  1737.74 ms
+NoneType: None
+2019-07-12 16:21:27,933 - Time Logger - ERROR - 'get_player_image'  1737.74 ms
+NoneType: None
+2019-07-12 16:21:27,933 - Time Logger - ERROR - 'get_player_image'  1737.74 ms
+NoneType: None
+2019-07-12 16:21:27,933 - Time Logger - ERROR - 'get_player_image'  1737.74 ms
+NoneType: None
+2019-07-12 16:21:27,933 - Time Logger - ERROR - 'get_player_image'  1737.74 ms
+NoneType: None
+2019-07-12 16:21:27,933 - Time Logger - ERROR - 'get_player_image'  1737.74 ms
+NoneType: None
+2019-07-12 16:21:27,933 - Time Logger - ERROR - 'get_player_image'  1737.74 ms
+NoneType: None
+2019-07-12 16:21:27,933 - Time Logger - ERROR - 'get_player_image'  1737.74 ms
+NoneType: None
+2019-07-12 16:21:27,933 - Time Logger - ERROR - 'get_player_image'  1737.74 ms
+NoneType: None
+2019-07-12 16:21:27,933 - Time Logger - ERROR - 'get_player_image'  1737.74 ms
+NoneType: None
+2019-07-12 16:21:27,933 - Time Logger - ERROR - 'get_player_image'  1737.74 ms
+NoneType: None
+2019-07-12 16:21:27,933 - Time Logger - ERROR - 'get_player_image'  1737.74 ms
+NoneType: None
+2019-07-12 16:21:27,933 - Time Logger - ERROR - 'get_player_image'  1737.74 ms
+NoneType: None
+2019-07-12 16:21:27,933 - Time Logger - ERROR - 'get_player_image'  1737.74 ms
+NoneType: None
+2019-07-12 16:21:27,933 - Time Logger - ERROR - 'get_player_image'  1737.74 ms
+NoneType: None
+2019-07-12 16:21:27,933 - Time Logger - ERROR - 'get_player_image'  1737.74 ms
+NoneType: None
+2019-07-12 16:21:27,933 - Time Logger - ERROR - 'get_player_image'  1737.74 ms
+NoneType: None
+2019-07-12 16:21:27,933 - Time Logger - ERROR - 'get_player_image'  1737.74 ms
+NoneType: None
+2019-07-12 16:21:27,933 - Time Logger - ERROR - 'get_player_image'  1737.74 ms
+NoneType: None
+2019-07-12 16:21:27,933 - Time Logger - ERROR - 'get_player_image'  1737.74 ms
+NoneType: None
+2019-07-12 16:21:27,933 - Time Logger - ERROR - 'get_player_image'  1737.74 ms
+NoneType: None
+2019-07-12 16:21:27,933 - Time Logger - ERROR - 'get_player_image'  1737.74 ms
+NoneType: None
+2019-07-12 16:21:27,933 - Time Logger - ERROR - 'get_player_image'  1737.74 ms
+NoneType: None
+2019-07-12 16:21:27,933 - Time Logger - ERROR - 'get_player_image'  1737.74 ms
+NoneType: None
+2019-07-12 16:21:27,933 - Time Logger - ERROR - 'get_player_image'  1737.74 ms
+NoneType: None
+2019-07-12 16:21:31,934 - Time Logger - ERROR - 'get_player_image'  3993.60 ms
+NoneType: None
+2019-07-12 16:21:31,934 - Time Logger - ERROR - 'get_player_image'  3993.60 ms
+NoneType: None
+2019-07-12 16:21:31,934 - Time Logger - ERROR - 'get_player_image'  3993.60 ms
+NoneType: None
+2019-07-12 16:21:31,934 - Time Logger - ERROR - 'get_player_image'  3993.60 ms
+NoneType: None
+2019-07-12 16:21:31,934 - Time Logger - ERROR - 'get_player_image'  3993.60 ms
+NoneType: None
+2019-07-12 16:21:31,934 - Time Logger - ERROR - 'get_player_image'  3993.60 ms
+NoneType: None
+2019-07-12 16:21:31,934 - Time Logger - ERROR - 'get_player_image'  3993.60 ms
+NoneType: None
+2019-07-12 16:21:31,934 - Time Logger - ERROR - 'get_player_image'  3993.60 ms
+NoneType: None
+2019-07-12 16:21:31,934 - Time Logger - ERROR - 'get_player_image'  3993.60 ms
+NoneType: None
+2019-07-12 16:21:31,934 - Time Logger - ERROR - 'get_player_image'  3993.60 ms
+NoneType: None
+2019-07-12 16:21:31,934 - Time Logger - ERROR - 'get_player_image'  3993.60 ms
+NoneType: None
+2019-07-12 16:21:31,934 - Time Logger - ERROR - 'get_player_image'  3993.60 ms
+NoneType: None
+2019-07-12 16:21:31,934 - Time Logger - ERROR - 'get_player_image'  3993.60 ms
+NoneType: None
+2019-07-12 16:21:31,934 - Time Logger - ERROR - 'get_player_image'  3993.60 ms
+NoneType: None
+2019-07-12 16:21:31,934 - Time Logger - ERROR - 'get_player_image'  3993.60 ms
+NoneType: None
+2019-07-12 16:21:31,934 - Time Logger - ERROR - 'get_player_image'  3993.60 ms
+NoneType: None
+2019-07-12 16:21:31,934 - Time Logger - ERROR - 'get_player_image'  3993.60 ms
+NoneType: None
+2019-07-12 16:21:31,934 - Time Logger - ERROR - 'get_player_image'  3993.60 ms
+NoneType: None
+2019-07-12 16:21:31,934 - Time Logger - ERROR - 'get_player_image'  3993.60 ms
+NoneType: None
+2019-07-12 16:21:31,934 - Time Logger - ERROR - 'get_player_image'  3993.60 ms
+NoneType: None
+2019-07-12 16:21:31,934 - Time Logger - ERROR - 'get_player_image'  3993.60 ms
+NoneType: None
+2019-07-12 16:21:31,934 - Time Logger - ERROR - 'get_player_image'  3993.60 ms
+NoneType: None
+2019-07-12 16:21:31,934 - Time Logger - ERROR - 'get_player_image'  3993.60 ms
+NoneType: None
+2019-07-12 16:21:31,934 - Time Logger - ERROR - 'get_player_image'  3993.60 ms
+NoneType: None
+2019-07-12 16:21:31,934 - Time Logger - ERROR - 'get_player_image'  3993.60 ms
+NoneType: None
+2019-07-12 16:21:31,934 - Time Logger - ERROR - 'get_player_image'  3993.60 ms
+NoneType: None
+2019-07-12 16:21:31,934 - Time Logger - ERROR - 'get_player_image'  3993.60 ms
+NoneType: None
+2019-07-12 16:21:31,934 - Time Logger - ERROR - 'get_player_image'  3993.60 ms
+NoneType: None
+2019-07-12 16:21:31,934 - Time Logger - ERROR - 'get_player_image'  3993.60 ms
+NoneType: None
+2019-07-12 16:21:31,934 - Time Logger - ERROR - 'get_player_image'  3993.60 ms
+NoneType: None
+2019-07-12 16:21:31,934 - Time Logger - ERROR - 'get_player_image'  3993.60 ms
+NoneType: None
+2019-07-12 16:21:31,934 - Time Logger - ERROR - 'get_player_image'  3993.60 ms
+NoneType: None
+2019-07-12 16:21:31,934 - Time Logger - ERROR - 'get_player_image'  3993.60 ms
+NoneType: None
+2019-07-12 16:21:31,934 - Time Logger - ERROR - 'get_player_image'  3993.60 ms
+NoneType: None
+2019-07-12 16:21:31,934 - Time Logger - ERROR - 'get_player_image'  3993.60 ms
+NoneType: None
+2019-07-12 16:21:34,374 - Time Logger - ERROR - 'get_player_image'  2436.96 ms
+NoneType: None
+2019-07-12 16:21:34,374 - Time Logger - ERROR - 'get_player_image'  2436.96 ms
+NoneType: None
+2019-07-12 16:21:34,374 - Time Logger - ERROR - 'get_player_image'  2436.96 ms
+NoneType: None
+2019-07-12 16:21:34,374 - Time Logger - ERROR - 'get_player_image'  2436.96 ms
+NoneType: None
+2019-07-12 16:21:34,374 - Time Logger - ERROR - 'get_player_image'  2436.96 ms
+NoneType: None
+2019-07-12 16:21:34,374 - Time Logger - ERROR - 'get_player_image'  2436.96 ms
+NoneType: None
+2019-07-12 16:21:34,374 - Time Logger - ERROR - 'get_player_image'  2436.96 ms
+NoneType: None
+2019-07-12 16:21:34,374 - Time Logger - ERROR - 'get_player_image'  2436.96 ms
+NoneType: None
+2019-07-12 16:21:34,374 - Time Logger - ERROR - 'get_player_image'  2436.96 ms
+NoneType: None
+2019-07-12 16:21:34,374 - Time Logger - ERROR - 'get_player_image'  2436.96 ms
+NoneType: None
+2019-07-12 16:21:34,374 - Time Logger - ERROR - 'get_player_image'  2436.96 ms
+NoneType: None
+2019-07-12 16:21:34,374 - Time Logger - ERROR - 'get_player_image'  2436.96 ms
+NoneType: None
+2019-07-12 16:21:34,374 - Time Logger - ERROR - 'get_player_image'  2436.96 ms
+NoneType: None
+2019-07-12 16:21:34,374 - Time Logger - ERROR - 'get_player_image'  2436.96 ms
+NoneType: None
+2019-07-12 16:21:34,374 - Time Logger - ERROR - 'get_player_image'  2436.96 ms
+NoneType: None
+2019-07-12 16:21:34,374 - Time Logger - ERROR - 'get_player_image'  2436.96 ms
+NoneType: None
+2019-07-12 16:21:34,374 - Time Logger - ERROR - 'get_player_image'  2436.96 ms
+NoneType: None
+2019-07-12 16:21:34,374 - Time Logger - ERROR - 'get_player_image'  2436.96 ms
+NoneType: None
+2019-07-12 16:21:34,374 - Time Logger - ERROR - 'get_player_image'  2436.96 ms
+NoneType: None
+2019-07-12 16:21:34,374 - Time Logger - ERROR - 'get_player_image'  2436.96 ms
+NoneType: None
+2019-07-12 16:21:34,374 - Time Logger - ERROR - 'get_player_image'  2436.96 ms
+NoneType: None
+2019-07-12 16:21:34,374 - Time Logger - ERROR - 'get_player_image'  2436.96 ms
+NoneType: None
+2019-07-12 16:21:34,374 - Time Logger - ERROR - 'get_player_image'  2436.96 ms
+NoneType: None
+2019-07-12 16:21:34,374 - Time Logger - ERROR - 'get_player_image'  2436.96 ms
+NoneType: None
+2019-07-12 16:21:34,374 - Time Logger - ERROR - 'get_player_image'  2436.96 ms
+NoneType: None
+2019-07-12 16:21:34,374 - Time Logger - ERROR - 'get_player_image'  2436.96 ms
+NoneType: None
+2019-07-12 16:21:34,374 - Time Logger - ERROR - 'get_player_image'  2436.96 ms
+NoneType: None
+2019-07-12 16:21:34,374 - Time Logger - ERROR - 'get_player_image'  2436.96 ms
+NoneType: None
+2019-07-12 16:21:34,374 - Time Logger - ERROR - 'get_player_image'  2436.96 ms
+NoneType: None
+2019-07-12 16:21:34,374 - Time Logger - ERROR - 'get_player_image'  2436.96 ms
+NoneType: None
+2019-07-12 16:21:34,374 - Time Logger - ERROR - 'get_player_image'  2436.96 ms
+NoneType: None
+2019-07-12 16:21:34,374 - Time Logger - ERROR - 'get_player_image'  2436.96 ms
+NoneType: None
+2019-07-12 16:21:34,374 - Time Logger - ERROR - 'get_player_image'  2436.96 ms
+NoneType: None
+2019-07-12 16:21:34,374 - Time Logger - ERROR - 'get_player_image'  2436.96 ms
+NoneType: None
+2019-07-12 16:21:34,374 - Time Logger - ERROR - 'get_player_image'  2436.96 ms
+NoneType: None
+2019-07-12 16:21:34,374 - Time Logger - ERROR - 'get_player_image'  2436.96 ms
+NoneType: None
+2019-07-12 16:21:36,548 - Time Logger - ERROR - 'get_player_image'  2166.74 ms
+NoneType: None
+2019-07-12 16:21:36,548 - Time Logger - ERROR - 'get_player_image'  2166.74 ms
+NoneType: None
+2019-07-12 16:21:36,548 - Time Logger - ERROR - 'get_player_image'  2166.74 ms
+NoneType: None
+2019-07-12 16:21:36,548 - Time Logger - ERROR - 'get_player_image'  2166.74 ms
+NoneType: None
+2019-07-12 16:21:36,548 - Time Logger - ERROR - 'get_player_image'  2166.74 ms
+NoneType: None
+2019-07-12 16:21:36,548 - Time Logger - ERROR - 'get_player_image'  2166.74 ms
+NoneType: None
+2019-07-12 16:21:36,548 - Time Logger - ERROR - 'get_player_image'  2166.74 ms
+NoneType: None
+2019-07-12 16:21:36,548 - Time Logger - ERROR - 'get_player_image'  2166.74 ms
+NoneType: None
+2019-07-12 16:21:36,548 - Time Logger - ERROR - 'get_player_image'  2166.74 ms
+NoneType: None
+2019-07-12 16:21:36,548 - Time Logger - ERROR - 'get_player_image'  2166.74 ms
+NoneType: None
+2019-07-12 16:21:36,548 - Time Logger - ERROR - 'get_player_image'  2166.74 ms
+NoneType: None
+2019-07-12 16:21:36,548 - Time Logger - ERROR - 'get_player_image'  2166.74 ms
+NoneType: None
+2019-07-12 16:21:36,548 - Time Logger - ERROR - 'get_player_image'  2166.74 ms
+NoneType: None
+2019-07-12 16:21:36,548 - Time Logger - ERROR - 'get_player_image'  2166.74 ms
+NoneType: None
+2019-07-12 16:21:36,548 - Time Logger - ERROR - 'get_player_image'  2166.74 ms
+NoneType: None
+2019-07-12 16:21:36,548 - Time Logger - ERROR - 'get_player_image'  2166.74 ms
+NoneType: None
+2019-07-12 16:21:36,548 - Time Logger - ERROR - 'get_player_image'  2166.74 ms
+NoneType: None
+2019-07-12 16:21:36,548 - Time Logger - ERROR - 'get_player_image'  2166.74 ms
+NoneType: None
+2019-07-12 16:21:36,548 - Time Logger - ERROR - 'get_player_image'  2166.74 ms
+NoneType: None
+2019-07-12 16:21:36,548 - Time Logger - ERROR - 'get_player_image'  2166.74 ms
+NoneType: None
+2019-07-12 16:21:36,548 - Time Logger - ERROR - 'get_player_image'  2166.74 ms
+NoneType: None
+2019-07-12 16:21:36,548 - Time Logger - ERROR - 'get_player_image'  2166.74 ms
+NoneType: None
+2019-07-12 16:21:36,548 - Time Logger - ERROR - 'get_player_image'  2166.74 ms
+NoneType: None
+2019-07-12 16:21:36,548 - Time Logger - ERROR - 'get_player_image'  2166.74 ms
+NoneType: None
+2019-07-12 16:21:36,548 - Time Logger - ERROR - 'get_player_image'  2166.74 ms
+NoneType: None
+2019-07-12 16:21:36,548 - Time Logger - ERROR - 'get_player_image'  2166.74 ms
+NoneType: None
+2019-07-12 16:21:36,548 - Time Logger - ERROR - 'get_player_image'  2166.74 ms
+NoneType: None
+2019-07-12 16:21:36,548 - Time Logger - ERROR - 'get_player_image'  2166.74 ms
+NoneType: None
+2019-07-12 16:21:36,548 - Time Logger - ERROR - 'get_player_image'  2166.74 ms
+NoneType: None
+2019-07-12 16:21:36,548 - Time Logger - ERROR - 'get_player_image'  2166.74 ms
+NoneType: None
+2019-07-12 16:21:36,548 - Time Logger - ERROR - 'get_player_image'  2166.74 ms
+NoneType: None
+2019-07-12 16:21:36,548 - Time Logger - ERROR - 'get_player_image'  2166.74 ms
+NoneType: None
+2019-07-12 16:21:36,548 - Time Logger - ERROR - 'get_player_image'  2166.74 ms
+NoneType: None
+2019-07-12 16:21:36,548 - Time Logger - ERROR - 'get_player_image'  2166.74 ms
+NoneType: None
+2019-07-12 16:21:36,548 - Time Logger - ERROR - 'get_player_image'  2166.74 ms
+NoneType: None
+2019-07-12 16:21:36,548 - Time Logger - ERROR - 'get_player_image'  2166.74 ms
+NoneType: None
+2019-07-12 16:21:36,548 - Time Logger - ERROR - 'get_player_image'  2166.74 ms
+NoneType: None
+2019-07-12 16:21:38,795 - Time Logger - ERROR - 'get_player_image'  2243.81 ms
+NoneType: None
+2019-07-12 16:21:38,795 - Time Logger - ERROR - 'get_player_image'  2243.81 ms
+NoneType: None
+2019-07-12 16:21:38,795 - Time Logger - ERROR - 'get_player_image'  2243.81 ms
+NoneType: None
+2019-07-12 16:21:38,795 - Time Logger - ERROR - 'get_player_image'  2243.81 ms
+NoneType: None
+2019-07-12 16:21:38,795 - Time Logger - ERROR - 'get_player_image'  2243.81 ms
+NoneType: None
+2019-07-12 16:21:38,795 - Time Logger - ERROR - 'get_player_image'  2243.81 ms
+NoneType: None
+2019-07-12 16:21:38,795 - Time Logger - ERROR - 'get_player_image'  2243.81 ms
+NoneType: None
+2019-07-12 16:21:38,795 - Time Logger - ERROR - 'get_player_image'  2243.81 ms
+NoneType: None
+2019-07-12 16:21:38,795 - Time Logger - ERROR - 'get_player_image'  2243.81 ms
+NoneType: None
+2019-07-12 16:21:38,795 - Time Logger - ERROR - 'get_player_image'  2243.81 ms
+NoneType: None
+2019-07-12 16:21:38,795 - Time Logger - ERROR - 'get_player_image'  2243.81 ms
+NoneType: None
+2019-07-12 16:21:38,795 - Time Logger - ERROR - 'get_player_image'  2243.81 ms
+NoneType: None
+2019-07-12 16:21:38,795 - Time Logger - ERROR - 'get_player_image'  2243.81 ms
+NoneType: None
+2019-07-12 16:21:38,795 - Time Logger - ERROR - 'get_player_image'  2243.81 ms
+NoneType: None
+2019-07-12 16:21:38,795 - Time Logger - ERROR - 'get_player_image'  2243.81 ms
+NoneType: None
+2019-07-12 16:21:38,795 - Time Logger - ERROR - 'get_player_image'  2243.81 ms
+NoneType: None
+2019-07-12 16:21:38,795 - Time Logger - ERROR - 'get_player_image'  2243.81 ms
+NoneType: None
+2019-07-12 16:21:38,795 - Time Logger - ERROR - 'get_player_image'  2243.81 ms
+NoneType: None
+2019-07-12 16:21:38,795 - Time Logger - ERROR - 'get_player_image'  2243.81 ms
+NoneType: None
+2019-07-12 16:21:38,795 - Time Logger - ERROR - 'get_player_image'  2243.81 ms
+NoneType: None
+2019-07-12 16:21:38,795 - Time Logger - ERROR - 'get_player_image'  2243.81 ms
+NoneType: None
+2019-07-12 16:21:38,795 - Time Logger - ERROR - 'get_player_image'  2243.81 ms
+NoneType: None
+2019-07-12 16:21:38,795 - Time Logger - ERROR - 'get_player_image'  2243.81 ms
+NoneType: None
+2019-07-12 16:21:38,795 - Time Logger - ERROR - 'get_player_image'  2243.81 ms
+NoneType: None
+2019-07-12 16:21:38,795 - Time Logger - ERROR - 'get_player_image'  2243.81 ms
+NoneType: None
+2019-07-12 16:21:38,795 - Time Logger - ERROR - 'get_player_image'  2243.81 ms
+NoneType: None
+2019-07-12 16:21:38,795 - Time Logger - ERROR - 'get_player_image'  2243.81 ms
+NoneType: None
+2019-07-12 16:21:38,795 - Time Logger - ERROR - 'get_player_image'  2243.81 ms
+NoneType: None
+2019-07-12 16:21:38,795 - Time Logger - ERROR - 'get_player_image'  2243.81 ms
+NoneType: None
+2019-07-12 16:21:38,795 - Time Logger - ERROR - 'get_player_image'  2243.81 ms
+NoneType: None
+2019-07-12 16:21:38,795 - Time Logger - ERROR - 'get_player_image'  2243.81 ms
+NoneType: None
+2019-07-12 16:21:38,795 - Time Logger - ERROR - 'get_player_image'  2243.81 ms
+NoneType: None
+2019-07-12 16:21:38,795 - Time Logger - ERROR - 'get_player_image'  2243.81 ms
+NoneType: None
+2019-07-12 16:21:38,795 - Time Logger - ERROR - 'get_player_image'  2243.81 ms
+NoneType: None
+2019-07-12 16:21:38,795 - Time Logger - ERROR - 'get_player_image'  2243.81 ms
+NoneType: None
+2019-07-12 16:21:38,795 - Time Logger - ERROR - 'get_player_image'  2243.81 ms
+NoneType: None
+2019-07-12 16:21:38,795 - Time Logger - ERROR - 'get_player_image'  2243.81 ms
+NoneType: None
+2019-07-12 16:21:38,795 - Time Logger - ERROR - 'get_player_image'  2243.81 ms
+NoneType: None
+2019-07-12 16:21:41,107 - Time Logger - ERROR - 'get_player_image'  2307.60 ms
+NoneType: None
+2019-07-12 16:21:41,107 - Time Logger - ERROR - 'get_player_image'  2307.60 ms
+NoneType: None
+2019-07-12 16:21:41,107 - Time Logger - ERROR - 'get_player_image'  2307.60 ms
+NoneType: None
+2019-07-12 16:21:41,107 - Time Logger - ERROR - 'get_player_image'  2307.60 ms
+NoneType: None
+2019-07-12 16:21:41,107 - Time Logger - ERROR - 'get_player_image'  2307.60 ms
+NoneType: None
+2019-07-12 16:21:41,107 - Time Logger - ERROR - 'get_player_image'  2307.60 ms
+NoneType: None
+2019-07-12 16:21:41,107 - Time Logger - ERROR - 'get_player_image'  2307.60 ms
+NoneType: None
+2019-07-12 16:21:41,107 - Time Logger - ERROR - 'get_player_image'  2307.60 ms
+NoneType: None
+2019-07-12 16:21:41,107 - Time Logger - ERROR - 'get_player_image'  2307.60 ms
+NoneType: None
+2019-07-12 16:21:41,107 - Time Logger - ERROR - 'get_player_image'  2307.60 ms
+NoneType: None
+2019-07-12 16:21:41,107 - Time Logger - ERROR - 'get_player_image'  2307.60 ms
+NoneType: None
+2019-07-12 16:21:41,107 - Time Logger - ERROR - 'get_player_image'  2307.60 ms
+NoneType: None
+2019-07-12 16:21:41,107 - Time Logger - ERROR - 'get_player_image'  2307.60 ms
+NoneType: None
+2019-07-12 16:21:41,107 - Time Logger - ERROR - 'get_player_image'  2307.60 ms
+NoneType: None
+2019-07-12 16:21:41,107 - Time Logger - ERROR - 'get_player_image'  2307.60 ms
+NoneType: None
+2019-07-12 16:21:41,107 - Time Logger - ERROR - 'get_player_image'  2307.60 ms
+NoneType: None
+2019-07-12 16:21:41,107 - Time Logger - ERROR - 'get_player_image'  2307.60 ms
+NoneType: None
+2019-07-12 16:21:41,107 - Time Logger - ERROR - 'get_player_image'  2307.60 ms
+NoneType: None
+2019-07-12 16:21:41,107 - Time Logger - ERROR - 'get_player_image'  2307.60 ms
+NoneType: None
+2019-07-12 16:21:41,107 - Time Logger - ERROR - 'get_player_image'  2307.60 ms
+NoneType: None
+2019-07-12 16:21:41,107 - Time Logger - ERROR - 'get_player_image'  2307.60 ms
+NoneType: None
+2019-07-12 16:21:41,107 - Time Logger - ERROR - 'get_player_image'  2307.60 ms
+NoneType: None
+2019-07-12 16:21:41,107 - Time Logger - ERROR - 'get_player_image'  2307.60 ms
+NoneType: None
+2019-07-12 16:21:41,107 - Time Logger - ERROR - 'get_player_image'  2307.60 ms
+NoneType: None
+2019-07-12 16:21:41,107 - Time Logger - ERROR - 'get_player_image'  2307.60 ms
+NoneType: None
+2019-07-12 16:21:41,107 - Time Logger - ERROR - 'get_player_image'  2307.60 ms
+NoneType: None
+2019-07-12 16:21:41,107 - Time Logger - ERROR - 'get_player_image'  2307.60 ms
+NoneType: None
+2019-07-12 16:21:41,107 - Time Logger - ERROR - 'get_player_image'  2307.60 ms
+NoneType: None
+2019-07-12 16:21:41,107 - Time Logger - ERROR - 'get_player_image'  2307.60 ms
+NoneType: None
+2019-07-12 16:21:41,107 - Time Logger - ERROR - 'get_player_image'  2307.60 ms
+NoneType: None
+2019-07-12 16:21:41,107 - Time Logger - ERROR - 'get_player_image'  2307.60 ms
+NoneType: None
+2019-07-12 16:21:41,107 - Time Logger - ERROR - 'get_player_image'  2307.60 ms
+NoneType: None
+2019-07-12 16:21:41,107 - Time Logger - ERROR - 'get_player_image'  2307.60 ms
+NoneType: None
+2019-07-12 16:21:41,107 - Time Logger - ERROR - 'get_player_image'  2307.60 ms
+NoneType: None
+2019-07-12 16:21:41,107 - Time Logger - ERROR - 'get_player_image'  2307.60 ms
+NoneType: None
+2019-07-12 16:21:41,107 - Time Logger - ERROR - 'get_player_image'  2307.60 ms
+NoneType: None
+2019-07-12 16:21:41,107 - Time Logger - ERROR - 'get_player_image'  2307.60 ms
+NoneType: None
+2019-07-12 16:21:41,107 - Time Logger - ERROR - 'get_player_image'  2307.60 ms
+NoneType: None
+2019-07-12 16:21:41,107 - Time Logger - ERROR - 'get_player_image'  2307.60 ms
+NoneType: None
+2019-07-12 16:21:44,154 - Time Logger - ERROR - 'get_player_image'  3044.09 ms
+NoneType: None
+2019-07-12 16:21:44,154 - Time Logger - ERROR - 'get_player_image'  3044.09 ms
+NoneType: None
+2019-07-12 16:21:44,154 - Time Logger - ERROR - 'get_player_image'  3044.09 ms
+NoneType: None
+2019-07-12 16:21:44,154 - Time Logger - ERROR - 'get_player_image'  3044.09 ms
+NoneType: None
+2019-07-12 16:21:44,154 - Time Logger - ERROR - 'get_player_image'  3044.09 ms
+NoneType: None
+2019-07-12 16:21:44,154 - Time Logger - ERROR - 'get_player_image'  3044.09 ms
+NoneType: None
+2019-07-12 16:21:44,154 - Time Logger - ERROR - 'get_player_image'  3044.09 ms
+NoneType: None
+2019-07-12 16:21:44,154 - Time Logger - ERROR - 'get_player_image'  3044.09 ms
+NoneType: None
+2019-07-12 16:21:44,154 - Time Logger - ERROR - 'get_player_image'  3044.09 ms
+NoneType: None
+2019-07-12 16:21:44,154 - Time Logger - ERROR - 'get_player_image'  3044.09 ms
+NoneType: None
+2019-07-12 16:21:44,154 - Time Logger - ERROR - 'get_player_image'  3044.09 ms
+NoneType: None
+2019-07-12 16:21:44,154 - Time Logger - ERROR - 'get_player_image'  3044.09 ms
+NoneType: None
+2019-07-12 16:21:44,154 - Time Logger - ERROR - 'get_player_image'  3044.09 ms
+NoneType: None
+2019-07-12 16:21:44,154 - Time Logger - ERROR - 'get_player_image'  3044.09 ms
+NoneType: None
+2019-07-12 16:21:44,154 - Time Logger - ERROR - 'get_player_image'  3044.09 ms
+NoneType: None
+2019-07-12 16:21:44,154 - Time Logger - ERROR - 'get_player_image'  3044.09 ms
+NoneType: None
+2019-07-12 16:21:44,154 - Time Logger - ERROR - 'get_player_image'  3044.09 ms
+NoneType: None
+2019-07-12 16:21:44,154 - Time Logger - ERROR - 'get_player_image'  3044.09 ms
+NoneType: None
+2019-07-12 16:21:44,154 - Time Logger - ERROR - 'get_player_image'  3044.09 ms
+NoneType: None
+2019-07-12 16:21:44,154 - Time Logger - ERROR - 'get_player_image'  3044.09 ms
+NoneType: None
+2019-07-12 16:21:44,154 - Time Logger - ERROR - 'get_player_image'  3044.09 ms
+NoneType: None
+2019-07-12 16:21:44,154 - Time Logger - ERROR - 'get_player_image'  3044.09 ms
+NoneType: None
+2019-07-12 16:21:44,154 - Time Logger - ERROR - 'get_player_image'  3044.09 ms
+NoneType: None
+2019-07-12 16:21:44,154 - Time Logger - ERROR - 'get_player_image'  3044.09 ms
+NoneType: None
+2019-07-12 16:21:44,154 - Time Logger - ERROR - 'get_player_image'  3044.09 ms
+NoneType: None
+2019-07-12 16:21:44,154 - Time Logger - ERROR - 'get_player_image'  3044.09 ms
+NoneType: None
+2019-07-12 16:21:44,154 - Time Logger - ERROR - 'get_player_image'  3044.09 ms
+NoneType: None
+2019-07-12 16:21:44,154 - Time Logger - ERROR - 'get_player_image'  3044.09 ms
+NoneType: None
+2019-07-12 16:21:44,154 - Time Logger - ERROR - 'get_player_image'  3044.09 ms
+NoneType: None
+2019-07-12 16:21:44,154 - Time Logger - ERROR - 'get_player_image'  3044.09 ms
+NoneType: None
+2019-07-12 16:21:44,154 - Time Logger - ERROR - 'get_player_image'  3044.09 ms
+NoneType: None
+2019-07-12 16:21:44,154 - Time Logger - ERROR - 'get_player_image'  3044.09 ms
+NoneType: None
+2019-07-12 16:21:44,154 - Time Logger - ERROR - 'get_player_image'  3044.09 ms
+NoneType: None
+2019-07-12 16:21:44,154 - Time Logger - ERROR - 'get_player_image'  3044.09 ms
+NoneType: None
+2019-07-12 16:21:44,154 - Time Logger - ERROR - 'get_player_image'  3044.09 ms
+NoneType: None
+2019-07-12 16:21:44,154 - Time Logger - ERROR - 'get_player_image'  3044.09 ms
+NoneType: None
+2019-07-12 16:21:44,154 - Time Logger - ERROR - 'get_player_image'  3044.09 ms
+NoneType: None
+2019-07-12 16:21:44,154 - Time Logger - ERROR - 'get_player_image'  3044.09 ms
+NoneType: None
+2019-07-12 16:21:44,154 - Time Logger - ERROR - 'get_player_image'  3044.09 ms
+NoneType: None
+2019-07-12 16:21:44,154 - Time Logger - ERROR - 'get_player_image'  3044.09 ms
+NoneType: None
+2019-07-12 16:21:45,991 - Time Logger - ERROR - 'get_player_image'  1834.16 ms
+NoneType: None
+2019-07-12 16:21:45,991 - Time Logger - ERROR - 'get_player_image'  1834.16 ms
+NoneType: None
+2019-07-12 16:21:45,991 - Time Logger - ERROR - 'get_player_image'  1834.16 ms
+NoneType: None
+2019-07-12 16:21:45,991 - Time Logger - ERROR - 'get_player_image'  1834.16 ms
+NoneType: None
+2019-07-12 16:21:45,991 - Time Logger - ERROR - 'get_player_image'  1834.16 ms
+NoneType: None
+2019-07-12 16:21:45,991 - Time Logger - ERROR - 'get_player_image'  1834.16 ms
+NoneType: None
+2019-07-12 16:21:45,991 - Time Logger - ERROR - 'get_player_image'  1834.16 ms
+NoneType: None
+2019-07-12 16:21:45,991 - Time Logger - ERROR - 'get_player_image'  1834.16 ms
+NoneType: None
+2019-07-12 16:21:45,991 - Time Logger - ERROR - 'get_player_image'  1834.16 ms
+NoneType: None
+2019-07-12 16:21:45,991 - Time Logger - ERROR - 'get_player_image'  1834.16 ms
+NoneType: None
+2019-07-12 16:21:45,991 - Time Logger - ERROR - 'get_player_image'  1834.16 ms
+NoneType: None
+2019-07-12 16:21:45,991 - Time Logger - ERROR - 'get_player_image'  1834.16 ms
+NoneType: None
+2019-07-12 16:21:45,991 - Time Logger - ERROR - 'get_player_image'  1834.16 ms
+NoneType: None
+2019-07-12 16:21:45,991 - Time Logger - ERROR - 'get_player_image'  1834.16 ms
+NoneType: None
+2019-07-12 16:21:45,991 - Time Logger - ERROR - 'get_player_image'  1834.16 ms
+NoneType: None
+2019-07-12 16:21:45,991 - Time Logger - ERROR - 'get_player_image'  1834.16 ms
+NoneType: None
+2019-07-12 16:21:45,991 - Time Logger - ERROR - 'get_player_image'  1834.16 ms
+NoneType: None
+2019-07-12 16:21:45,991 - Time Logger - ERROR - 'get_player_image'  1834.16 ms
+NoneType: None
+2019-07-12 16:21:45,991 - Time Logger - ERROR - 'get_player_image'  1834.16 ms
+NoneType: None
+2019-07-12 16:21:45,991 - Time Logger - ERROR - 'get_player_image'  1834.16 ms
+NoneType: None
+2019-07-12 16:21:45,991 - Time Logger - ERROR - 'get_player_image'  1834.16 ms
+NoneType: None
+2019-07-12 16:21:45,991 - Time Logger - ERROR - 'get_player_image'  1834.16 ms
+NoneType: None
+2019-07-12 16:21:45,991 - Time Logger - ERROR - 'get_player_image'  1834.16 ms
+NoneType: None
+2019-07-12 16:21:45,991 - Time Logger - ERROR - 'get_player_image'  1834.16 ms
+NoneType: None
+2019-07-12 16:21:45,991 - Time Logger - ERROR - 'get_player_image'  1834.16 ms
+NoneType: None
+2019-07-12 16:21:45,991 - Time Logger - ERROR - 'get_player_image'  1834.16 ms
+NoneType: None
+2019-07-12 16:21:45,991 - Time Logger - ERROR - 'get_player_image'  1834.16 ms
+NoneType: None
+2019-07-12 16:21:45,991 - Time Logger - ERROR - 'get_player_image'  1834.16 ms
+NoneType: None
+2019-07-12 16:21:45,991 - Time Logger - ERROR - 'get_player_image'  1834.16 ms
+NoneType: None
+2019-07-12 16:21:45,991 - Time Logger - ERROR - 'get_player_image'  1834.16 ms
+NoneType: None
+2019-07-12 16:21:45,991 - Time Logger - ERROR - 'get_player_image'  1834.16 ms
+NoneType: None
+2019-07-12 16:21:45,991 - Time Logger - ERROR - 'get_player_image'  1834.16 ms
+NoneType: None
+2019-07-12 16:21:45,991 - Time Logger - ERROR - 'get_player_image'  1834.16 ms
+NoneType: None
+2019-07-12 16:21:45,991 - Time Logger - ERROR - 'get_player_image'  1834.16 ms
+NoneType: None
+2019-07-12 16:21:45,991 - Time Logger - ERROR - 'get_player_image'  1834.16 ms
+NoneType: None
+2019-07-12 16:21:45,991 - Time Logger - ERROR - 'get_player_image'  1834.16 ms
+NoneType: None
+2019-07-12 16:21:45,991 - Time Logger - ERROR - 'get_player_image'  1834.16 ms
+NoneType: None
+2019-07-12 16:21:45,991 - Time Logger - ERROR - 'get_player_image'  1834.16 ms
+NoneType: None
+2019-07-12 16:21:45,991 - Time Logger - ERROR - 'get_player_image'  1834.16 ms
+NoneType: None
+2019-07-12 16:21:45,991 - Time Logger - ERROR - 'get_player_image'  1834.16 ms
+NoneType: None
+2019-07-12 16:21:45,991 - Time Logger - ERROR - 'get_player_image'  1834.16 ms
+NoneType: None
+2019-07-12 16:21:48,073 - Time Logger - ERROR - 'get_player_image'  2079.51 ms
+NoneType: None
+2019-07-12 16:21:48,073 - Time Logger - ERROR - 'get_player_image'  2079.51 ms
+NoneType: None
+2019-07-12 16:21:48,073 - Time Logger - ERROR - 'get_player_image'  2079.51 ms
+NoneType: None
+2019-07-12 16:21:48,073 - Time Logger - ERROR - 'get_player_image'  2079.51 ms
+NoneType: None
+2019-07-12 16:21:48,073 - Time Logger - ERROR - 'get_player_image'  2079.51 ms
+NoneType: None
+2019-07-12 16:21:48,073 - Time Logger - ERROR - 'get_player_image'  2079.51 ms
+NoneType: None
+2019-07-12 16:21:48,073 - Time Logger - ERROR - 'get_player_image'  2079.51 ms
+NoneType: None
+2019-07-12 16:21:48,073 - Time Logger - ERROR - 'get_player_image'  2079.51 ms
+NoneType: None
+2019-07-12 16:21:48,073 - Time Logger - ERROR - 'get_player_image'  2079.51 ms
+NoneType: None
+2019-07-12 16:21:48,073 - Time Logger - ERROR - 'get_player_image'  2079.51 ms
+NoneType: None
+2019-07-12 16:21:48,073 - Time Logger - ERROR - 'get_player_image'  2079.51 ms
+NoneType: None
+2019-07-12 16:21:48,073 - Time Logger - ERROR - 'get_player_image'  2079.51 ms
+NoneType: None
+2019-07-12 16:21:48,073 - Time Logger - ERROR - 'get_player_image'  2079.51 ms
+NoneType: None
+2019-07-12 16:21:48,073 - Time Logger - ERROR - 'get_player_image'  2079.51 ms
+NoneType: None
+2019-07-12 16:21:48,073 - Time Logger - ERROR - 'get_player_image'  2079.51 ms
+NoneType: None
+2019-07-12 16:21:48,073 - Time Logger - ERROR - 'get_player_image'  2079.51 ms
+NoneType: None
+2019-07-12 16:21:48,073 - Time Logger - ERROR - 'get_player_image'  2079.51 ms
+NoneType: None
+2019-07-12 16:21:48,073 - Time Logger - ERROR - 'get_player_image'  2079.51 ms
+NoneType: None
+2019-07-12 16:21:48,073 - Time Logger - ERROR - 'get_player_image'  2079.51 ms
+NoneType: None
+2019-07-12 16:21:48,073 - Time Logger - ERROR - 'get_player_image'  2079.51 ms
+NoneType: None
+2019-07-12 16:21:48,073 - Time Logger - ERROR - 'get_player_image'  2079.51 ms
+NoneType: None
+2019-07-12 16:21:48,073 - Time Logger - ERROR - 'get_player_image'  2079.51 ms
+NoneType: None
+2019-07-12 16:21:48,073 - Time Logger - ERROR - 'get_player_image'  2079.51 ms
+NoneType: None
+2019-07-12 16:21:48,073 - Time Logger - ERROR - 'get_player_image'  2079.51 ms
+NoneType: None
+2019-07-12 16:21:48,073 - Time Logger - ERROR - 'get_player_image'  2079.51 ms
+NoneType: None
+2019-07-12 16:21:48,073 - Time Logger - ERROR - 'get_player_image'  2079.51 ms
+NoneType: None
+2019-07-12 16:21:48,073 - Time Logger - ERROR - 'get_player_image'  2079.51 ms
+NoneType: None
+2019-07-12 16:21:48,073 - Time Logger - ERROR - 'get_player_image'  2079.51 ms
+NoneType: None
+2019-07-12 16:21:48,073 - Time Logger - ERROR - 'get_player_image'  2079.51 ms
+NoneType: None
+2019-07-12 16:21:48,073 - Time Logger - ERROR - 'get_player_image'  2079.51 ms
+NoneType: None
+2019-07-12 16:21:48,073 - Time Logger - ERROR - 'get_player_image'  2079.51 ms
+NoneType: None
+2019-07-12 16:21:48,073 - Time Logger - ERROR - 'get_player_image'  2079.51 ms
+NoneType: None
+2019-07-12 16:21:48,073 - Time Logger - ERROR - 'get_player_image'  2079.51 ms
+NoneType: None
+2019-07-12 16:21:48,073 - Time Logger - ERROR - 'get_player_image'  2079.51 ms
+NoneType: None
+2019-07-12 16:21:48,073 - Time Logger - ERROR - 'get_player_image'  2079.51 ms
+NoneType: None
+2019-07-12 16:21:48,073 - Time Logger - ERROR - 'get_player_image'  2079.51 ms
+NoneType: None
+2019-07-12 16:21:48,073 - Time Logger - ERROR - 'get_player_image'  2079.51 ms
+NoneType: None
+2019-07-12 16:21:48,073 - Time Logger - ERROR - 'get_player_image'  2079.51 ms
+NoneType: None
+2019-07-12 16:21:48,073 - Time Logger - ERROR - 'get_player_image'  2079.51 ms
+NoneType: None
+2019-07-12 16:21:48,073 - Time Logger - ERROR - 'get_player_image'  2079.51 ms
+NoneType: None
+2019-07-12 16:21:48,073 - Time Logger - ERROR - 'get_player_image'  2079.51 ms
+NoneType: None
+2019-07-12 16:21:48,073 - Time Logger - ERROR - 'get_player_image'  2079.51 ms
+NoneType: None
+2019-07-12 16:21:52,120 - Time Logger - ERROR - 'get_player_image'  4042.48 ms
+NoneType: None
+2019-07-12 16:21:52,120 - Time Logger - ERROR - 'get_player_image'  4042.48 ms
+NoneType: None
+2019-07-12 16:21:52,120 - Time Logger - ERROR - 'get_player_image'  4042.48 ms
+NoneType: None
+2019-07-12 16:21:52,120 - Time Logger - ERROR - 'get_player_image'  4042.48 ms
+NoneType: None
+2019-07-12 16:21:52,120 - Time Logger - ERROR - 'get_player_image'  4042.48 ms
+NoneType: None
+2019-07-12 16:21:52,120 - Time Logger - ERROR - 'get_player_image'  4042.48 ms
+NoneType: None
+2019-07-12 16:21:52,120 - Time Logger - ERROR - 'get_player_image'  4042.48 ms
+NoneType: None
+2019-07-12 16:21:52,120 - Time Logger - ERROR - 'get_player_image'  4042.48 ms
+NoneType: None
+2019-07-12 16:21:52,120 - Time Logger - ERROR - 'get_player_image'  4042.48 ms
+NoneType: None
+2019-07-12 16:21:52,120 - Time Logger - ERROR - 'get_player_image'  4042.48 ms
+NoneType: None
+2019-07-12 16:21:52,120 - Time Logger - ERROR - 'get_player_image'  4042.48 ms
+NoneType: None
+2019-07-12 16:21:52,120 - Time Logger - ERROR - 'get_player_image'  4042.48 ms
+NoneType: None
+2019-07-12 16:21:52,120 - Time Logger - ERROR - 'get_player_image'  4042.48 ms
+NoneType: None
+2019-07-12 16:21:52,120 - Time Logger - ERROR - 'get_player_image'  4042.48 ms
+NoneType: None
+2019-07-12 16:21:52,120 - Time Logger - ERROR - 'get_player_image'  4042.48 ms
+NoneType: None
+2019-07-12 16:21:52,120 - Time Logger - ERROR - 'get_player_image'  4042.48 ms
+NoneType: None
+2019-07-12 16:21:52,120 - Time Logger - ERROR - 'get_player_image'  4042.48 ms
+NoneType: None
+2019-07-12 16:21:52,120 - Time Logger - ERROR - 'get_player_image'  4042.48 ms
+NoneType: None
+2019-07-12 16:21:52,120 - Time Logger - ERROR - 'get_player_image'  4042.48 ms
+NoneType: None
+2019-07-12 16:21:52,120 - Time Logger - ERROR - 'get_player_image'  4042.48 ms
+NoneType: None
+2019-07-12 16:21:52,120 - Time Logger - ERROR - 'get_player_image'  4042.48 ms
+NoneType: None
+2019-07-12 16:21:52,120 - Time Logger - ERROR - 'get_player_image'  4042.48 ms
+NoneType: None
+2019-07-12 16:21:52,120 - Time Logger - ERROR - 'get_player_image'  4042.48 ms
+NoneType: None
+2019-07-12 16:21:52,120 - Time Logger - ERROR - 'get_player_image'  4042.48 ms
+NoneType: None
+2019-07-12 16:21:52,120 - Time Logger - ERROR - 'get_player_image'  4042.48 ms
+NoneType: None
+2019-07-12 16:21:52,120 - Time Logger - ERROR - 'get_player_image'  4042.48 ms
+NoneType: None
+2019-07-12 16:21:52,120 - Time Logger - ERROR - 'get_player_image'  4042.48 ms
+NoneType: None
+2019-07-12 16:21:52,120 - Time Logger - ERROR - 'get_player_image'  4042.48 ms
+NoneType: None
+2019-07-12 16:21:52,120 - Time Logger - ERROR - 'get_player_image'  4042.48 ms
+NoneType: None
+2019-07-12 16:21:52,120 - Time Logger - ERROR - 'get_player_image'  4042.48 ms
+NoneType: None
+2019-07-12 16:21:52,120 - Time Logger - ERROR - 'get_player_image'  4042.48 ms
+NoneType: None
+2019-07-12 16:21:52,120 - Time Logger - ERROR - 'get_player_image'  4042.48 ms
+NoneType: None
+2019-07-12 16:21:52,120 - Time Logger - ERROR - 'get_player_image'  4042.48 ms
+NoneType: None
+2019-07-12 16:21:52,120 - Time Logger - ERROR - 'get_player_image'  4042.48 ms
+NoneType: None
+2019-07-12 16:21:52,120 - Time Logger - ERROR - 'get_player_image'  4042.48 ms
+NoneType: None
+2019-07-12 16:21:52,120 - Time Logger - ERROR - 'get_player_image'  4042.48 ms
+NoneType: None
+2019-07-12 16:21:52,120 - Time Logger - ERROR - 'get_player_image'  4042.48 ms
+NoneType: None
+2019-07-12 16:21:52,120 - Time Logger - ERROR - 'get_player_image'  4042.48 ms
+NoneType: None
+2019-07-12 16:21:52,120 - Time Logger - ERROR - 'get_player_image'  4042.48 ms
+NoneType: None
+2019-07-12 16:21:52,120 - Time Logger - ERROR - 'get_player_image'  4042.48 ms
+NoneType: None
+2019-07-12 16:21:52,120 - Time Logger - ERROR - 'get_player_image'  4042.48 ms
+NoneType: None
+2019-07-12 16:21:52,120 - Time Logger - ERROR - 'get_player_image'  4042.48 ms
+NoneType: None
+2019-07-12 16:21:52,120 - Time Logger - ERROR - 'get_player_image'  4042.48 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:57,051 - Time Logger - ERROR - 'get_player_image'  4928.00 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:21:59,085 - Time Logger - ERROR - 'get_player_image'  2030.82 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:01,417 - Time Logger - ERROR - 'get_player_image'  2327.54 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:05,734 - Time Logger - ERROR - 'get_player_image'  4312.21 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:10,417 - Time Logger - ERROR - 'get_player_image'  4679.56 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:13,138 - Time Logger - ERROR - 'get_player_image'  2717.88 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,466 - Time Logger - ERROR - 'get_player_image'  3323.87 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None
+2019-07-12 16:22:16,471 - Time Logger - ERROR - 'scrape_players_data'  159462.94 ms
+NoneType: None

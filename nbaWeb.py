@@ -476,6 +476,5 @@ if __name__ == '__main__':
             temp_export = results
             export_file(args.export)
     elif args.env:
-        print(">>"+args.env)
         app = create_app(args.env)
         app.run()
