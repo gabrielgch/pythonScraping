@@ -2,7 +2,7 @@
 
 A small web application that uses beautiful soup to scrape for nba players basic data.
 
-###Installation
+### Installation
 
 Download the project and run pip install -r requirements.txt
 After that run python nbaWeb.py -e dev to start server.
